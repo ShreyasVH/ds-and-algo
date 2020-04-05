@@ -45,10 +45,6 @@ public class Problem5b
 			{
 				profit += (prices[i] - prices[i - 1]);
 			}
-			else
-			{
-
-			}
 		}
 
 		return profit;
