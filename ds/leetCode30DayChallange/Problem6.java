@@ -101,6 +101,6 @@ public class Problem6
 }
 
 /*
-    Time Complexity: O(nm)
+    Time Complexity: O(nmlogm)
     Space Complexity: O(n)
 */
