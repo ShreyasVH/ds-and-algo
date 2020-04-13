@@ -1,7 +1,8 @@
 /*
-	Write a function rotate(ar[], d, n) that left rotates arr[] of size n by d elements. (Array Reversal Algorithm)
+	Reversal algorithm for right rotation of an array
 */
-public class Problem2
+
+class Problem
 {
 	public static void main(String[] args)
 	{
@@ -15,9 +16,11 @@ public class Problem2
 	{
 		int n = nums.length;
 
-		reverse(nums, 0, d - 1);
-		reverse(nums, d, n - 1);
 		reverse(nums, 0, n - 1);
+		print(nums);
+		reverse(nums, 0, d - 1);
+		print(nums);
+		reverse(nums, d, n - 1);
 	}
 
 	public static void reverse(int[] arr, int low, int high)
