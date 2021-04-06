@@ -1,7 +1,8 @@
 /*
-	Write a function rotate(ar[], d, n) that left rotates arr[] of size n by d elements. (Array Reversal Algorithm)
+	Reversal algorithm for array rotation
+	Write a function rotate(arr[], d, n) that rotates arr[] of size n by d elements. 
 */
-public class Problem2
+class Solution
 {
 	public static void main(String[] args)
 	{
@@ -11,25 +12,6 @@ public class Problem2
 		print(arr);
 	}
 
-	public static void rotate(int[] nums, int d)
-	{
-		int n = nums.length;
-
-		reverse(nums, 0, d - 1);
-		reverse(nums, d, n - 1);
-		reverse(nums, 0, n - 1);
-	}
-
-	public static void reverse(int[] arr, int low, int high)
-	{
-		for(int i = low; i <= ((low + high) / 2); i++)
-		{
-			int temp = arr[i];
-			arr[i] = arr[high - i + low];
-			arr[high - i + low] = temp;
-		}
-	}
-
 	public static void print(int[] arr)
 	{
 		for(int i = 0; i < arr.length; i++)
@@ -37,6 +19,24 @@ public class Problem2
 			System.out.print(arr[i] + " ");
 		}
 		System.out.println();
+	}
+
+	public static void rotate(int[] arr, int d)
+	{
+		int n = arr.length;
+		reverse(arr, 0, d - 1);
+		reverse(arr, d, n - 1);
+		reverse(arr, 0, n - 1);
+	}
+
+	public static void reverse(int[] arr, int start, int end)
+	{
+		for(int i = 0; i <= ((end - start) / 2); i++)
+		{
+			int temp = arr[start + i];
+			arr[start + i] = arr[end - i];
+			arr[end - i] = temp;
+		}
 	}
 }
 

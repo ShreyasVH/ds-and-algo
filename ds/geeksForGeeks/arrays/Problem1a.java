@@ -2,7 +2,6 @@
 	Program for array rotation
 	Write a function rotate(ar[], d, n) that rotates arr[] of size n by d elements. 
 */
-
 class Solution
 {
 	public static void main(String[] args)
@@ -24,20 +23,41 @@ class Solution
 
 	public static void rotate(int[] arr, int d)
 	{
-		for(int i = 1; i <= d; i++)
-		{
-			int temp = arr[0];
+		int n = arr.length;
+		int hcf = gcd(n, d);
 
-			for(int j = 0; j < arr.length - 1; j++)
+		for(int i = 0; i < hcf; i++)
+		{
+			int temp = arr[i];
+			int j = i;
+			while(true)
 			{
-				arr[j] = arr[j+1];
+				int k = ((j + d) % n);
+				if(k == i)
+				{
+					break;
+				}
+				arr[j] = arr[k];
+				j = k;
 			}
-			arr[arr.length - 1] = temp;
+			arr[j] = temp;
+		}
+	}
+
+	public static int gcd(int a, int b)
+	{
+		if((a % b) == 0)
+		{
+			return b;
+		}
+		else
+		{
+			return gcd(b, a % b);
 		}
 	}
 }
 
 /*
-	Time Complexity: O(n * d)
+	Time Complexity: O(n)
 	Space Complexity: O(1)
 */
