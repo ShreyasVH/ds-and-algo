@@ -1,49 +1,15 @@
 /*
-	Block swap algorithm for array rotation anti-clockwise (Recursive)
+	Block swap algorithm for array rotation
+	Write a function rotate(ar[], d, n) that rotates arr[] of size n by d elements.
 */
-public class Problem3
+class Solution
 {
 	public static void main(String[] args)
 	{
-		int[] arr = {1, 2, 3, 4, 5};
-		rotate(arr, 3);
+		int[] arr = {1, 2, 3, 4, 5, 6};
+
+		rotate(arr, arr.length, 0, 4);
 		print(arr);
-	}
-
-	public static void rotate(int[] arr, int d)
-	{
-		rotate(arr, arr.length, 0, d);
-
-		//Right Rotate
-		// rotate(arr, arr.length, 0, (arr.length - d));
-	}
-
-	public static void rotate(int[] arr, int n, int arrayStart, int d)
-	{
-		if((n - d) == d)
-		{
-			swap(arr, arrayStart, (d + arrayStart), d);
-		}
-		else if(d < (n - d))
-		{
-			swap(arr, arrayStart, (arrayStart + n - d), d);
-			rotate(arr, (n - d), arrayStart, d);
-		}
-		else
-		{
-			swap(arr, arrayStart, d, (n - d));
-			rotate(arr, d, (n - d), (2 * d - n));
-		}
-	}
-
-	public static void swap(int[] arr, int fi, int si, int d)
-	{
-		for(int i = 0; i < d; i++)
-		{
-			int temp = arr[fi + i];
-			arr[fi + i] = arr[si + i];
-			arr[si + i] = temp;
-		}
 	}
 
 	public static void print(int[] arr)
@@ -54,7 +20,36 @@ public class Problem3
 		}
 		System.out.println();
 	}
+
+	public static void rotate(int[] arr, int n, int start, int d)
+	{
+		if(d == (n - d))
+		{
+			swap(arr, start, start + d, d);
+		}
+		else if(d < (n - d))
+		{
+			swap(arr, start, start + n - d, d);
+			rotate(arr, n - d, start, d);
+		}
+		else
+		{
+			swap(arr, start, start + d, n - d);
+			rotate(arr, d, start + n - d, 2 * d - n);
+		}
+	}
+
+	public static void swap(int[] arr, int start1, int start2, int n)
+	{
+		for(int i = 0; i < n; i++)
+		{
+			int temp = arr[start1 + i];
+			arr[start1 + i] = arr[start2 + i];
+			arr[start2 + i] = temp;
+		}
+	}
 }
+
 
 /*
 	Time Complexity: O(n)

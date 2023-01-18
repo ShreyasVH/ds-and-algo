@@ -2,49 +2,48 @@
 	Search an element in a sorted and rotated array
 */
 
-public class Problem5a
+class Solution
 {
 	public static void main(String[] args)
 	{
-		int nums[] = {3, 4, 5, 1, 2};
-		// System.out.println(search(nums, 0, nums.length - 1, 1));
-		// System.out.println(search(nums, 0, nums.length - 1, 3));
-		// System.out.println(search(nums, 0, nums.length - 1, 7));
+		int[] arr = {3, 4, 5, 1, 2};
 
-		for(int i = 1; i <= 10; i++)
+		for(int i = 0; i <= arr.length + 1; i++)
 		{
-			System.out.println(search(nums, i));
+			System.out.println(search(arr, i));
 		}
 	}
 
-	public static int search(int[] nums, int key)
+	public static int search(int[] arr, int key)
 	{
 		int pos = -1;
-		int start = 0;
-		int end = nums.length - 1;
+		int n = arr.length;
 
-		while(start <= end)
+		int l = 0;
+		int r = (n - 1);
+
+		while(l <= r)
 		{
-			int mid = ((start + end) / 2);
-
-			if(nums[mid] == key)
+			int m = ((l + r) / 2);
+			if(arr[m] == key)
 			{
-				pos = mid;
+				pos = m;
 				break;
 			}
-			else if((key < nums[mid]) && (key >= nums[start]))
+			else if(key >= arr[l] && key < arr[m])
 			{
-				end = (mid - 1);
+				r = (m - 1);
 			}
 			else
 			{
-				start = (mid + 1);
+				l = (m + 1);
 			}
 		}
 
 		return pos;
 	}
 }
+
 
 /*
 	Time Complexity: O(logn)

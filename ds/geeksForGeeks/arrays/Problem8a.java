@@ -1,33 +1,40 @@
 /*
-	Given an array arr[] of n integers, find the maximum that maximizes the sum of the value of i*arr[i] where i varies from 0 to n-1.
+	Maximum sum of i*arr[i] among all rotations of a given array
 */
 
-public class Problem8a
+class Solution
 {
 	public static void main(String[] args)
 	{
-		int[] nums = {1, 20, 2, 10};
-		// int[] nums = {10, 1, 2, 3, 4, 5, 6, 7, 8, 9};
-		// int[] nums = {8, 3, 1, 2};
-		// int[] nums = {3, 2, 1};
-		System.out.println(maxSum(nums));
+		int[] arr = {8, 3, 1, 2};
+		// int[] arr = {3, 2, 1};
+		System.out.println(maxSum(arr));
 	}
 
-	public static int maxSum(int[] nums)
+	public static int maxSum(int[] arr)
 	{
-		int n = nums.length;
-		int maxSum = Integer.MIN_VALUE;
+		int n = arr.length;
 
+		int sum = 0;
 		for(int i = 0; i < n; i++)
 		{
-			int sum = 0;
-			for(int j = 0; j < n; j++)
+			sum += arr[i];
+		}
+
+		int[] sumArray = new int[n];
+		
+		for(int i = 1; i < n; i++)
+		{
+			sumArray[0] += (i * arr[i]);
+		}
+		int maxSum = sumArray[0];
+
+		for(int i = 1; i < n; i++)
+		{
+			sumArray[i] = (sumArray[i - 1] + n * arr[i - 1] - sum);
+			if(sumArray[i] > maxSum)
 			{
-				sum += (j * nums[(i + j) % n]);
-			}
-			if(sum > maxSum)
-			{
-				maxSum = sum;
+				maxSum = sumArray[i];
 			}
 		}
 
@@ -36,6 +43,6 @@ public class Problem8a
 }
 
 /*
-	Time Complexity: O(n^2)
+	Time Complexity: O(n)
 	Space Complexity: O(1)
 */

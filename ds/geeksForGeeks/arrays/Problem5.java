@@ -2,41 +2,36 @@
 	Search an element in a sorted and rotated array
 */
 
-public class Problem5
+class Solution
 {
 	public static void main(String[] args)
 	{
-		// int nums[] = {3, 4, 5, 1, 2};
-		// int nums[] = {4, 5, 1, 2, 3};
-		// System.out.println(search(nums, 0, nums.length - 1, 1));
-		// System.out.println(search(nums, 0, nums.length - 1, 3));
-		// System.out.println(search(nums, 0, nums.length - 1, 7));
+		int[] arr = {3, 4, 5, 1, 2};
 
-		int[] nums = {2};
-		System.out.println(search(nums, 0, nums.length - 1, 1));
-		System.out.println(search(nums, 0, nums.length - 1, 2));
-		System.out.println(search(nums, 0, nums.length - 1, 3));
+		for(int i = 0; i <= arr.length + 1; i++)
+		{
+			System.out.println(search(arr, i, 0, arr.length - 1));
+		}
 	}
 
-	public static int search(int[] nums, int start, int end, int key)
+	public static int search(int[] arr, int key, int l, int r)
 	{
 		int pos = -1;
 
-		if(start <= end)
+		if(l <= r)
 		{
-			int mid = ((start + end) / 2);
-
-			if(nums[mid] == key)
+			int m = ((l + r) / 2);
+			if(arr[m] == key)
 			{
-				pos = mid;
+				pos = m;
 			}
-			else if((key >= nums[start]) && ((mid - 1) >= 0) && (key <= nums[mid - 1]))
+			else if(key >= arr[l] && key < arr[m])
 			{
-				pos = search(nums, start, (mid - 1), key);
+				pos = search(arr, key, l, m - 1);
 			}
-			else if(((mid + 1) <= end) && (key >= nums[mid + 1]) && (key <= nums[end]))
+			else
 			{
-				pos = search(nums, (mid + 1), end, key);
+				pos = search(arr, key, m + 1, r);
 			}
 		}
 
@@ -44,7 +39,8 @@ public class Problem5
 	}
 }
 
+
 /*
 	Time Complexity: O(logn)
-	Space Complexity: O(1)
+	Space Complexity: O(logn)
 */
