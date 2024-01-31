@@ -3,3 +3,4 @@ output
 .idea
 *.iml
 test
+.envrc
