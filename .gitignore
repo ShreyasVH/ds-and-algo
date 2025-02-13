@@ -4,3 +4,5 @@ output
 *.iml
 test
 .envrc
+.DS_Store
+Test.java
