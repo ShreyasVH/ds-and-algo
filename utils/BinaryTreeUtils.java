@@ -182,13 +182,13 @@ public class BinaryTreeUtils
     {
     	List<Integer> orderedList = new ArrayList<>();
     	TreeNode curr = root;
-    	print(root);
-    	int prevValue = Integer.MIN_VALUE;
-
+    	// print(root);
     	while(curr != null)
     	{
     		if(curr.left == null)
     		{
+    			// System.out.println("Left: " + curr.data);
+
     			orderedList.add(curr.data);
     			curr = curr.right;
     		}
@@ -210,6 +210,7 @@ public class BinaryTreeUtils
     			{
     				prev.right = null;
     				// print(root);
+    				// System.out.println("Right: " + curr.data);
     				orderedList.add(curr.data);
     				curr = curr.right;
     			}
