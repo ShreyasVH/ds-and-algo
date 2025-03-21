@@ -48,5 +48,55 @@
 		"stoneyCodes": 10,
 		"leetCode": 977,
 		"geeksForGeeks": ""
+	},
+	"threeSum": {
+		"stoneyCodes": 11,
+		"leetCode": 15,
+		"geeksForGeeks": ""
+	},
+	"longestMountainInArray": {
+		"stoneyCodes": 12,
+		"leetCode": 845,
+		"geeksForGeeks": ""
+	},
+	"containsDuplicate2": {
+		"stoneyCodes": 13,
+		"leetCode": 219,
+		"geeksForGeeks": ""
+	},
+	"minimumAbsoluteDifference": {
+		"stoneyCodes": 14,
+		"leetCode": 1200,
+		"geeksForGeeks": ""
+	},
+	"minimumSizeSubarraySum": {
+		"stoneyCodes": 15,
+		"leetCode": 209,
+		"geeksForGeeks": ""
+	},
+	"singleNumber": {
+		"stoneyCodes": 16,
+		"leetCode": 136,
+		"geeksForGeeks": ""
+	},
+	"coinChange": {
+		"stoneyCodes": 17,
+		"leetCode": 322,
+		"geeksForGeeks": ""
+	},
+	"climbingStairs": {
+		"stoneyCodes": 18,
+		"leetCode": 70,
+		"geeksForGeeks": ""
+	},
+	"maxSubArrayNegativeNumbersIncluded": {
+		"stoneyCodes": 19,
+		"leetCode": 53,
+		"geeksForGeeks": ""
+	},
+	"countBits": {
+		"stoneyCodes": 20,
+		"leetCode": 338,
+		"geeksForGeeks": ""
 	}
 }
