@@ -1,0 +1,52 @@
+{
+	"containsDuplicate": {
+		"stoneyCodes": 1,
+		"leetCode": 217,
+		"geeksForGeeks": ""
+	},
+	"missingNumber": {
+		"stoneyCodes": 2,
+		"leetCode": 268,
+		"geeksForGeeks": ""
+	},
+	"missingNumbers": {
+		"stoneyCodes": 3,
+		"leetCode": 448,
+		"geeksForGeeks": ""
+	},
+	"twoSum": {
+		"stoneyCodes": 4,
+		"leetCode": 1,
+		"geeksForGeeks": ""
+	},
+	"smallerThanCurrentNumber": {
+		"stoneyCodes": 5,
+		"leetCode": 1365,
+		"geeksForGeeks": ""
+	},
+	"minTimeVisitingAllPoints": {
+		"stoneyCodes": 6,
+		"leetCode": 1266,
+		"geeksForGeeks": ""
+	},
+	"spiralMatrix": {
+		"stoneyCodes": 7,
+		"leetCode": 54,
+		"geeksForGeeks": ""
+	},
+	"numberOfIslands": {
+		"stoneyCodes": 8,
+		"leetCode": 200,
+		"geeksForGeeks": ""
+	},
+	"bestTimeToSellStock": {
+		"stoneyCodes": 9,
+		"leetCode": 121,
+		"geeksForGeeks": ""
+	},
+	"squaresOfSortedArray": {
+		"stoneyCodes": 10,
+		"leetCode": 977,
+		"geeksForGeeks": ""
+	}
+}

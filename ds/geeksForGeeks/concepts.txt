@@ -1,0 +1,9 @@
+1. for a sorted array, u can use 2 pointers
+2. for in order traversal, u can use morris traversal for O(1) space complexity
+3. while doing level order traversal, for each level u can use queue.size() to get count of nodes in currrent nodes. U also need to run a for loop to push the children of the current level nodes.
+4. if 2 elements are swapped in a sorted array, 
+	a. if 2 consectutive elements are swapped, there will be one violation
+	b. if 2 non-consecutive elements are swapped, there will be 2 violations
+
+	violation is an occurence where an element is smaller than the previous element.
+5. If u keep on calcluating the sum from 0th index to every index, if the sum repeats again, that means, the subarray starting from the index at which sum previously occurred to the current index has zero sum.

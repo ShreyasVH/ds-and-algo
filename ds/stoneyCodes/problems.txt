@@ -1,0 +1,65 @@
+1. whether an array contains duplicate
+2. Missing number in range 0,n
+3. Missing numbers in range 1, n
+4. two sum
+5. how many numbers are smaller than current number
+6. minimum time visiting all points
+7. spiral matrix
+8. number of islands
+9. best time to buy and sell stock
+10. squares of a sorted array
+11. 3sum
+12. longest mountain in array
+13. contains duplicate 2
+14. minimum absolute difference
+15. minimum size subarray sum
+16. single number
+17. coin change
+18. climbing stairs
+19. max subarray
+20. counting bits
+21. range sum query immutable
+22. letter case permutation - not done
+23. subsets - not done
+24. combinations - not done
+25. permutations - not done
+26. middle of linked list
+27. linked list cycle
+28. reverse linked list
+29. remove elements with value from linked list
+30. reverse linked list 2
+31. palindrome linked list
+32. merge two sorted linked lists
+33. Min stack
+34. valid parantheses
+35. evaluate reverse polish notation
+36. stack sorting
+37. stack using queues
+38. time needed to buy tickets
+39. reverse first k elements of queue using stack
+40. average of levels in a binary tree
+41. minimum depth of a binary tree
+42. maximum depth of a binray tree
+43. max / min value binary tree
+44. level order traversal
+45. same tree
+46. path sum
+47. diameter of a binary tree
+48. invert a binary tree
+49. lowest common ancestor
+50. search in a binary search tree
+51. insert in BST
+52. convert sorted array to BST
+53. two sum BST
+54. lowest common ancestor in BST
+55. minimum absolute difference in BST
+56. balance BST
+57. deleting node from BST
+58. kth smallest value
+59. kth largest element in an array
+60. k closest points to origin
+61. top k frequent elements
+62. task scheduler
+63. clone graph
+64. cheapest flights with k stops
+65. course schedule
