@@ -98,5 +98,35 @@
 		"stoneyCodes": 20,
 		"leetCode": 338,
 		"geeksForGeeks": ""
+	},
+	"rangeSumQuery": {
+		"stoneyCodes": 21,
+		"leetCode": 303,
+		"geeksForGeeks": ""
+	},
+	"middleOfLinkedList": {
+		"stoneyCodes": 26,
+		"leetCode": 876,
+		"geeksForGeeks": ""
+	},
+	"linkedListCycle": {
+		"stoneyCodes": 27,
+		"leetCode": 141,
+		"geeksForGeeks": ""
+	},
+	"reverseLinkedList": {
+		"stoneyCodes": 28,
+		"leetCode": 206,
+		"geeksForGeeks": ""
+	},
+	"removeElementsFromLinkedList": {
+		"stoneyCodes": 29,
+		"leetCode": 203,
+		"geeksForGeeks": ""
+	},
+	"reverseLinkedList2": {
+		"stoneyCodes": 30,
+		"leetCode": 92,
+		"geeksForGeeks": ""
 	}
 }
