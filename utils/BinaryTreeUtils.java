@@ -5,6 +5,8 @@ import java.util.ArrayList;
 import java.util.Map;
 import java.util.HashMap;
 import utils.ArrayUtils;
+import java.util.Queue;
+import java.util.LinkedList;
 
 public class BinaryTreeUtils
 {
@@ -120,62 +122,65 @@ public class BinaryTreeUtils
     }
 
     public static void print(TreeNode root) {
-        int nodeCount = getNodeCount(root);
-        // System.out.println("Nodecount: " + nodeCount);
-        List<Integer> list = new ArrayList<>(nodeCount);
-        Map<Integer, Map<String, Boolean>> childNodeMap = new HashMap<>();
-        inOrder(root, list, childNodeMap);
-        // System.out.println(list);
-        int height = getHeight(root);
-        // System.out.println("Height: " + height);
-        Map<Integer, Integer> map = new HashMap<>();
-        createYCoOrdinateMap(root, 0, map);
-        // System.out.println(map);
+    	if(root != null)
+    	{
+    		int nodeCount = getNodeCount(root);
+	        // System.out.println("Nodecount: " + nodeCount);
+	        List<Integer> list = new ArrayList<>(nodeCount);
+	        Map<Integer, Map<String, Boolean>> childNodeMap = new HashMap<>();
+	        inOrder(root, list, childNodeMap);
+	        // System.out.println(list);
+	        int height = getHeight(root);
+	        // System.out.println("Height: " + height);
+	        Map<Integer, Integer> map = new HashMap<>();
+	        createYCoOrdinateMap(root, 0, map);
+	        // System.out.println(map);
 
-        int rows = 2 * height - 1;
-        int columns = 2 * nodeCount - 1;
-        // System.out.println();
-        Object[][] matrix = new Object[rows][columns];
+	        int rows = 2 * height - 1;
+	        int columns = 2 * nodeCount - 1;
+	        // System.out.println();
+	        Object[][] matrix = new Object[rows][columns];
 
-        for(int i = 0; i < rows; i++)
-        {
-        	for(int j = 0; j < columns; j++)
-        	{
-        		matrix[i][j] = " ";
-        	}
-        }
+	        for(int i = 0; i < rows; i++)
+	        {
+	        	for(int j = 0; j < columns; j++)
+	        	{
+	        		matrix[i][j] = " ";
+	        	}
+	        }
 
-        // print(matrix, rows, columns);
-        // System.out.println(childNodeMap);
+	        // print(matrix, rows, columns);
+	        // System.out.println(childNodeMap);
 
-        for(int i = 0; i < nodeCount; i++)
-        {
-        	int num = list.get(i);
-        	int xCoOrdinate = getXCoOrdinate(list, num);
-        	int yCoOrdinate = getYCoOrdinate(map, num);
+	        for(int i = 0; i < nodeCount; i++)
+	        {
+	        	int num = list.get(i);
+	        	int xCoOrdinate = getXCoOrdinate(list, num);
+	        	int yCoOrdinate = getYCoOrdinate(map, num);
 
-        	// System.out.println(num + " -> " + "(" + xCoOrdinate + ", " + yCoOrdinate + ")");
-        	matrix[yCoOrdinate][xCoOrdinate] = num;
+	        	// System.out.println(num + " -> " + "(" + xCoOrdinate + ", " + yCoOrdinate + ")");
+	        	matrix[yCoOrdinate][xCoOrdinate] = num;
 
-        	if(childNodeMap.getOrDefault(num, new HashMap<String, Boolean>()).getOrDefault("left", false))
-    		{
-    			matrix[yCoOrdinate - 1][xCoOrdinate + 1] = "/";
-    		}
-    		else if(childNodeMap.getOrDefault(num, new HashMap<String, Boolean>()).getOrDefault("right", false))
-    		{
-    			matrix[yCoOrdinate - 1][xCoOrdinate - 1] = "\\";
-    		}
-        }
+	        	if(childNodeMap.getOrDefault(num, new HashMap<String, Boolean>()).getOrDefault("left", false))
+	    		{
+	    			matrix[yCoOrdinate - 1][xCoOrdinate + 1] = "/";
+	    		}
+	    		else if(childNodeMap.getOrDefault(num, new HashMap<String, Boolean>()).getOrDefault("right", false))
+	    		{
+	    			matrix[yCoOrdinate - 1][xCoOrdinate - 1] = "\\";
+	    		}
+	        }
 
-        // System.out.println();
+	        // System.out.println();
 
-        // System.out.println()
+	        // System.out.println()
 
-        ArrayUtils.print(matrix, rows, columns);
-        System.out.println();
+	        ArrayUtils.print(matrix, rows, columns);
+	        System.out.println();
 
 
-        // printArray(sortedArray);
+	        // printArray(sortedArray);
+    	}
     }
 
     public static List<Integer> morrisTraversal(TreeNode root)
@@ -219,5 +224,34 @@ public class BinaryTreeUtils
 
 
     	return orderedList;
+    }
+
+    public static TreeNode getTree(Integer... nodes)
+    {
+    	Queue<TreeNode> q = new LinkedList<>();
+    	TreeNode root = new TreeNode(nodes[0]);
+    	q.add(root);
+
+    	int i = 1;
+    	while(i < nodes.length)
+    	{
+    		TreeNode current = q.poll();
+
+    		if(i < nodes.length && nodes[i] != null)
+    		{
+    			current.left = new TreeNode(nodes[i]);
+    			q.add(current.left);
+    		}
+    		i++;
+
+    		if(i < nodes.length && nodes[i] != null)
+    		{
+    			current.right = new TreeNode(nodes[i]);
+    			q.add(current.right);
+    		}
+    		i++;
+    	}
+
+    	return root;
     }
 }
