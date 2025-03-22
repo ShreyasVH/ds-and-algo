@@ -6,127 +6,140 @@
 	},
 	"missingNumber": {
 		"stoneyCodes": 2,
-		"leetCode": 268,
-		"geeksForGeeks": ""
+		"leetCode": 268
 	},
 	"missingNumbers": {
 		"stoneyCodes": 3,
-		"leetCode": 448,
-		"geeksForGeeks": ""
+		"leetCode": 448
 	},
 	"twoSum": {
 		"stoneyCodes": 4,
-		"leetCode": 1,
-		"geeksForGeeks": ""
+		"leetCode": 1
 	},
 	"smallerThanCurrentNumber": {
 		"stoneyCodes": 5,
-		"leetCode": 1365,
-		"geeksForGeeks": ""
+		"leetCode": 1365
 	},
 	"minTimeVisitingAllPoints": {
 		"stoneyCodes": 6,
-		"leetCode": 1266,
-		"geeksForGeeks": ""
+		"leetCode": 1266
 	},
 	"spiralMatrix": {
 		"stoneyCodes": 7,
-		"leetCode": 54,
-		"geeksForGeeks": ""
+		"leetCode": 54
 	},
 	"numberOfIslands": {
 		"stoneyCodes": 8,
-		"leetCode": 200,
-		"geeksForGeeks": ""
+		"leetCode": 200
 	},
 	"bestTimeToSellStock": {
 		"stoneyCodes": 9,
-		"leetCode": 121,
-		"geeksForGeeks": ""
+		"leetCode": 121
 	},
 	"squaresOfSortedArray": {
 		"stoneyCodes": 10,
-		"leetCode": 977,
-		"geeksForGeeks": ""
+		"leetCode": 977
 	},
 	"threeSum": {
 		"stoneyCodes": 11,
-		"leetCode": 15,
-		"geeksForGeeks": ""
+		"leetCode": 15
 	},
 	"longestMountainInArray": {
 		"stoneyCodes": 12,
-		"leetCode": 845,
-		"geeksForGeeks": ""
+		"leetCode": 845
 	},
 	"containsDuplicate2": {
 		"stoneyCodes": 13,
-		"leetCode": 219,
-		"geeksForGeeks": ""
+		"leetCode": 219
 	},
 	"minimumAbsoluteDifference": {
 		"stoneyCodes": 14,
-		"leetCode": 1200,
-		"geeksForGeeks": ""
+		"leetCode": 1200
 	},
 	"minimumSizeSubarraySum": {
 		"stoneyCodes": 15,
-		"leetCode": 209,
-		"geeksForGeeks": ""
+		"leetCode": 209
 	},
 	"singleNumber": {
 		"stoneyCodes": 16,
-		"leetCode": 136,
-		"geeksForGeeks": ""
+		"leetCode": 136
 	},
 	"coinChange": {
 		"stoneyCodes": 17,
-		"leetCode": 322,
-		"geeksForGeeks": ""
+		"leetCode": 322
 	},
 	"climbingStairs": {
 		"stoneyCodes": 18,
-		"leetCode": 70,
-		"geeksForGeeks": ""
+		"leetCode": 70
 	},
 	"maxSubArrayNegativeNumbersIncluded": {
 		"stoneyCodes": 19,
-		"leetCode": 53,
-		"geeksForGeeks": ""
+		"leetCode": 53
 	},
 	"countBits": {
 		"stoneyCodes": 20,
-		"leetCode": 338,
-		"geeksForGeeks": ""
+		"leetCode": 338
 	},
 	"rangeSumQuery": {
 		"stoneyCodes": 21,
-		"leetCode": 303,
-		"geeksForGeeks": ""
+		"leetCode": 303
 	},
 	"middleOfLinkedList": {
 		"stoneyCodes": 26,
-		"leetCode": 876,
-		"geeksForGeeks": ""
+		"leetCode": 876
 	},
 	"linkedListCycle": {
 		"stoneyCodes": 27,
-		"leetCode": 141,
-		"geeksForGeeks": ""
+		"leetCode": 141
 	},
 	"reverseLinkedList": {
 		"stoneyCodes": 28,
-		"leetCode": 206,
-		"geeksForGeeks": ""
+		"leetCode": 206
 	},
 	"removeElementsFromLinkedList": {
 		"stoneyCodes": 29,
-		"leetCode": 203,
-		"geeksForGeeks": ""
+		"leetCode": 203
 	},
 	"reverseLinkedList2": {
 		"stoneyCodes": 30,
-		"leetCode": 92,
-		"geeksForGeeks": ""
+		"leetCode": 92
+	},
+	"palindromicLinkedList": {
+		"stoneyCodes": 31,
+		"leetCode": 234
+	},
+	"mergeSortedLinkedLists": {
+		"stoneyCodes": 32,
+		"leetCode": 21
+	},
+	"minStack": {
+		"stoneyCodes": 33,
+		"leetCode": 155
+	},
+	"validParantheses": {
+		"stoneyCodes": 34,
+		"leetCode": 20
+	},
+	"reversePolishNotation": {
+		"stoneyCodes": 35,
+		"leetCode": 150
+	},
+	"stackSorting": {
+		"stoneyCodes": 36
+	},
+	"stackUsingQueue": {
+		"stoneyCodes": 37,
+		"leetCode": 225
+	},
+	"timeNeededToBuyTickets": {
+		"stoneyCodes": 38,
+		"leetCode": 2073
+	},
+	"reverseKElementsQueue": {
+		"stoneyCodes": 39
+	},
+	"averageOfLevels": {
+		"stoneyCodes": 40,
+		"leetCode": 637
 	}
 }
