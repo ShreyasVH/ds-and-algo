@@ -177,7 +177,7 @@
 		"stoneyCodes": 49,
 		"leetCode": 236
 	},
-	"searchInBinaryTree": {
+	"searchInBST": {
 		"stoneyCodes": 50,
 		"leetCode": 700
 	},
