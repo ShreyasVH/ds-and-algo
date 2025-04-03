@@ -13,4 +13,26 @@ public class LinkedListUtils
     	}
     	System.out.println();
     }
+
+    public static LinkedListNode getList(Object... elements)
+    {
+        LinkedListNode head = null;
+        LinkedListNode tail = null;
+
+        for(Object element: elements)
+        {
+            LinkedListNode node = new LinkedListNode(element);
+            if(head == null)
+            {
+                head = node;
+            }
+            else
+            {
+                tail.next = node;
+            }
+            tail = node;
+        }
+
+        return head;
+    }
 }

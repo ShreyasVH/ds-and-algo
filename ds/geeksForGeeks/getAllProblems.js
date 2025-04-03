@@ -46,6 +46,6 @@ const fs = require('fs');
 	    page++;
 	}
 
-	const filePath = 'problems.txt';
+	const filePath = 'allProblems.json';
     fs.writeFileSync(filePath, JSON.stringify(problems, null, ' '));
 })();

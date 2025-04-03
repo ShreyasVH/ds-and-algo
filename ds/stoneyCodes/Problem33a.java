@@ -48,7 +48,7 @@ import java.util.*;
 import utils.*;
 import java.lang.reflect.Constructor;
 
-public class Problem33
+public class Problem33a
 {
     class MinStack {
         Stack<int[]> stack;

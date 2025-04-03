@@ -2,10 +2,10 @@ package utils;
 
 public class LinkedListNode
 {
-	public int val;
+	public Object val;
 	public LinkedListNode next;
 
-	public LinkedListNode(int val)
+	public LinkedListNode(Object val)
 	{
 		this.val = val;
 	}

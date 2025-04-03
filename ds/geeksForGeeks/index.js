@@ -53,11 +53,13 @@ const fs = require('fs');
 		    	const problemUrl = result.problem_url;
 		    	const problemName = result.problem_name;
 		    	const id = result.id;
+				const difficulty = result.difficulty;
 
 		    	return {
 		    		id,
 		    		problemName,
-		    		problemUrl
+		    		problemUrl,
+		    		difficulty
 		    	};
 		    });
 
@@ -73,6 +75,6 @@ const fs = require('fs');
 
 	}
 
-	const filePath = 'problems.txt';
+	const filePath = 'problems.json';
     fs.writeFileSync(filePath, JSON.stringify(problems, null, ' '));
 })();

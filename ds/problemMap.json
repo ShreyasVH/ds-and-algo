@@ -224,5 +224,18 @@
 	"topKFrequentElements": {
 		"stoneyCodes": 61,
 		"leetCode": 347
+	},
+	"linkedListOfStringsPalindrome": {
+		"geeksForGeeks": 700056
+	},
+	"powerOfFour": {
+		"geeksForGeeks": 700129,
+		"leetCode": 342
+	},
+	"checkForBinaryString": {
+		"geeksForGeeks": 700133
+	},
+	"sizeOfBinaryTree": {
+		"geeksForGeeks": 700134
 	}
 }
