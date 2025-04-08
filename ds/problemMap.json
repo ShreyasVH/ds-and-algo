@@ -129,7 +129,8 @@
 	},
 	"stackUsingQueue": {
 		"stoneyCodes": 37,
-		"leetCode": 225
+		"leetCode": 225,
+		"geeksForGeeks": 700198
 	},
 	"timeNeededToBuyTickets": {
 		"stoneyCodes": 38,
@@ -225,7 +226,7 @@
 		"stoneyCodes": 61,
 		"leetCode": 347
 	},
-	"linkedListOfStringsPalindrome": {
+	"linkedListOfStrings": {
 		"geeksForGeeks": 700056
 	},
 	"powerOfFour": {
@@ -237,5 +238,59 @@
 	},
 	"sizeOfBinaryTree": {
 		"geeksForGeeks": 700134
+	},
+	"countBSTNodesInRange": {
+		"geeksForGeeks": 700139
+	},
+	"selectionSort": {
+		"geeksForGeeks": 700147
+	},
+	"checkForBST": {
+		"geeksForGeeks": 700149
+	},
+	"mergeSort": {
+		"geeksForGeeks": 700150
+	},
+	"quickSort": {
+		"geeksForGeeks": 700151
+	},
+	"binaryTreeRightView": {
+		"geeksForGeeks": 700153
+	},
+	"kDistanceFromRoot": {
+		"geeksForGeeks": 700154
+	},
+	"treeFromInOrderPostOrder": {
+		"geeksForGeeks": 700157
+	},
+	"treeFromInOrderPreOrder": {
+		"geeksForGeeks": 700586,
+		"leetCode": 105
+	},
+	"maxWidthOfBinaryTree": {
+		"geeksForGeeks": 700159
+	},
+	"binaryTreeBottomView": {
+		"geeksForGeeks": 700160
+	},
+	"balancedTreeCheck": {
+		"geeksForGeeks": 700166
+	},
+	"addGreaterValuesBST": {
+		"geeksForGeeks": 700177,
+		"leetCode": 538
+	},
+	"longestPalindromicSubstring": {
+		"geeksForGeeks": 703220,
+		"leetCode": 5
+	},
+	"treeFromParentArray": {
+		"geeksForGeeks": 700180
+	},
+	"transitionPoint": {
+		"geeksForGeeks": 700194
+	},
+	"queueUsingStacks": {
+		"geeksForGeeks": 700195
 	}
 }

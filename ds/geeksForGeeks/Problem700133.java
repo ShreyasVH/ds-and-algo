@@ -45,8 +45,9 @@ public class Problem700133
 	}
 
 	public boolean isBinary(String s) {
-        for(char ch: s.toCharArray())
+        for(int i = 0; i < s.length(); i++)
         {
+            char ch = s.charAt(i);
             if(ch != '1' && ch != '0')
             {
                 return false;
@@ -59,6 +60,6 @@ public class Problem700133
 
 
 /*
-Time complexity: 
-Space complexity: 
+Time complexity: O(n)
+Space complexity: O(1)
 */

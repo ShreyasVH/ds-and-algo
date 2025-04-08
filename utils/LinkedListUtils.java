@@ -6,10 +6,15 @@ public class LinkedListUtils
 {
     public static void print(LinkedListNode head)
 	{
-    	while(head != null)
+        LinkedListNode current = head;
+    	while(current != null)
     	{
-    		System.out.print(head.val + " ");
-            head = head.next;
+            if(current != head)
+            {
+                System.out.print(" -> ");
+            }
+    		System.out.print(current.val);
+            current = current.next;
     	}
     	System.out.println();
     }
