@@ -74,7 +74,7 @@ public class Problem29
         LinkedListNode current = dummy;
         while(current.next != null)
         {
-            if(current.next.val == val)
+            if((int) current.next.val == val)
             {
                 current.next = current.next.next;
             }

@@ -35,7 +35,7 @@ import java.util.*;
 import utils.*;
 import java.lang.reflect.Constructor;
 
-public class Problem703220
+public class Problem703220a
 {
 	public static void main(String args[]) throws Exception
 	{

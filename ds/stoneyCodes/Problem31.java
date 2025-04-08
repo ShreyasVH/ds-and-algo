@@ -65,7 +65,7 @@ public class Problem31
         Stack<Integer> stack = new Stack<>();
         while(mid != null)
         {
-            stack.push(mid.val);
+            stack.push((int) mid.val);
             mid = mid.next;
         }
 

@@ -73,7 +73,7 @@ public class Problem32
         LinkedListNode current = dummy;
         while(list1 != null && list2 != null)
         {
-            if(list1.val < list2.val)
+            if((int) list1.val < (int) list2.val)
             {
                 current.next = list1;
                 list1 = list1.next;
