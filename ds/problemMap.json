@@ -160,7 +160,8 @@
 	},
 	"sameTree": {
 		"stoneyCodes": 45,
-		"leetCode": 100
+		"leetCode": 100,
+		"geeksForGeeks": 700222
 	},
 	"pathSum": {
 		"stoneyCodes": 46,
@@ -184,7 +185,8 @@
 	},
 	"insertBST": {
 		"stoneyCodes": 51,
-		"leetCode": 701
+		"leetCode": 701,
+		"geeksForGeeks": 700216
 	},
 	"sortedArrayToBST": {
 		"stoneyCodes": 52,
