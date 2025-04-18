@@ -294,5 +294,17 @@
 	},
 	"queueUsingStacks": {
 		"geeksForGeeks": 700195
+	},
+	"graphBFS": {
+		"geeksForGeeks": 700217
+	},
+	"graphDFS": {
+		"geeksForGeeks": 700203
+	},
+	"adjacencyListPrint": {
+		"geeksForGeeks": 701247
+	},
+	"maximumWeightNode": {
+		"geeksForGeeks": 713152
 	}
 }
