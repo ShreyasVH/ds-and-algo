@@ -306,5 +306,17 @@
 	},
 	"maximumWeightNode": {
 		"geeksForGeeks": 713152
+	},
+	"graphDependencySum": {
+		"geeksForGeeks": 705732
+	},
+	"graphPathCount": {
+		"geeksForGeeks": 705707
+	},
+	"shortestPath1ToN": {
+		"geeksForGeeks": 704041
+	},
+	"unionFind": {
+		"geeksForGeeks": 701408
 	}
 }
