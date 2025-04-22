@@ -324,5 +324,11 @@
 	},
 	"floodFill": {
 		"geeksForGeeks": 705720
+	},
+	"cycleDetectionUndirectedGraph": {
+		"geeksForGeeks": 700219
+	},
+	"cycleDetectionDirectedGraph": {
+		"geeksForGeeks": 700218
 	}
 }
