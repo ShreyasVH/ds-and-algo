@@ -318,5 +318,11 @@
 	},
 	"unionFind": {
 		"geeksForGeeks": 701408
+	},
+	"connectedComponentsInUndirectedGraph": {
+		"geeksForGeeks": 876294
+	},
+	"floodFill": {
+		"geeksForGeeks": 705720
 	}
 }
