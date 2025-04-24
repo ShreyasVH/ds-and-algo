@@ -330,5 +330,12 @@
 	},
 	"cycleDetectionDirectedGraph": {
 		"geeksForGeeks": 700218
+	},
+	"snakeAndLadder": {
+		"geeksForGeeks": 705484,
+		"leetCode": 909
+	},
+	"isGraphTree": {
+		"geeksForGeeks": 710138
 	}
 }
