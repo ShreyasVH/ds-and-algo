@@ -73,11 +73,11 @@ public class Problem700203
     }
 
     public void dfs(ArrayList<ArrayList<Integer>> adj, int vertex, boolean[] visited, ArrayList<Integer> result) {
-        if(!visited[vertex]) {
-            visited[vertex] = true;
-            result.add(vertex);
-
-            for(int neighbour: adj.get(vertex)) {
+        visited[vertex] = true;
+        result.add(vertex);
+        for(int neighbour: adj.get(vertex)) {
+            if(!visited[neighbour])
+            {
                 dfs(adj, neighbour, visited, result);
             }
         }

@@ -80,10 +80,6 @@
 		"stoneyCodes": 20,
 		"leetCode": 338
 	},
-	"rangeSumQuery": {
-		"stoneyCodes": 21,
-		"leetCode": 303
-	},
 	"middleOfLinkedList": {
 		"stoneyCodes": 26,
 		"leetCode": 876
@@ -337,5 +333,22 @@
 	},
 	"isGraphTree": {
 		"geeksForGeeks": 710138
+	},
+	"rainWaterTrapping": {
+		"geeksForGeeks": 701211,
+		"leetCode": 42
+	},
+	"topologicalSort": {
+		"geeksForGeeks": 700255
+	},
+	"cloneGraph": {
+		"geeksForGeeks": 707672
+	},
+	"courseSchedule": {
+		"leetCode": 207
+	},
+	"courseScheduleII": {
+		"geeksForGeeks": 707516,
+		"leetCode": 210
 	}
 }

@@ -53,47 +53,41 @@ public class Problem704041
 
 	public int minStep(int n)
     {
-        if(n == 1)
-        {
-            return 0;
-        }
-
-        boolean[] visited = new boolean[n + 1];
-        int[] distance = new int[n + 1];
-
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(1);
+        boolean[] visited = new boolean[n + 1]; 
+        Queue<int[]> q = new LinkedList<>();
+        q.offer(new int[]{1, 0});
         visited[1] = true;
-        distance[1] = 0;
 
         while(!q.isEmpty())
         {
-            int curr = q.poll();
+            int[] data = q.poll();
+            int pos = data[0];
+            int moves = data[1];
 
-            int next1 = curr + 1;
-            int next2 = curr * 3;
-
-            if(next1 <= n && !visited[next1])
+            if(pos == n)
             {
-                q.offer(next1);
-                visited[next1] = true;
-                distance[next1] = distance[curr] + 1;
+                return moves;
             }
 
-            if(next2 <= n && !visited[next2])
+            int nextPos1 = pos + 1;
+            int nextPos2 = pos * 3;
+            int[] nextPosArr = {nextPos1, nextPos2};
+            for(int nextPos: nextPosArr)
             {
-                q.offer(next2);
-                visited[next2] = true;
-                distance[next2] = distance[curr] + 1;
-            }
+                if(nextPos > n)
+                {
+                    continue;
+                }
 
-            if(visited[n])
-            {
-                break;
+                if(!visited[nextPos])
+                {
+                    visited[nextPos] = true;
+                    q.offer(new int[]{nextPos, moves + 1});
+                }
             }
         }
 
-        return distance[n];
+        return -1;
     }
 }
 
