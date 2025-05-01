@@ -63,37 +63,51 @@ public class Problem2
 		System.out.println(problem.missingNumber(nums));
 	}
 
-	public int missingNumber(int[] nums) {
-        if(nums.length == 1)
-        {
-        	return 1 - nums[0];
-        }
+	// public int missingNumber(int[] nums) {
+    //     if(nums.length == 1)
+    //     {
+    //     	return 1 - nums[0];
+    //     }
 
+    //     Arrays.sort(nums);
+
+    //     if(nums[0] != 0)
+    //     {
+    //     	return 0;
+    //     }
+
+    //     if(nums[nums.length - 1] == nums.length - 1)
+    //     {
+    //     	return nums.length;
+    //     }
+
+    //     int prev = nums[0];
+    //     for (int i = 1; i < nums.length; i++)
+    //     {
+    //     	int num = nums[i];
+        	
+    //     	if(num - prev > 1)
+    //     	{
+    //     		return num - 1;
+    //     	}
+    //     	prev = num;
+    //     }
+
+    //     return -1;
+    // }
+
+    public int missingNumber(int[] nums) {
         Arrays.sort(nums);
 
-        if(nums[0] != 0)
+        for (int i = 0; i < nums.length; i++)
         {
-        	return 0;
-        }
-
-        if(nums[nums.length - 1] == nums.length - 1)
-        {
-        	return nums.length;
-        }
-
-        int prev = nums[0];
-        for (int i = 1; i < nums.length; i++)
-        {
-        	int num = nums[i];
-        	
-        	if(num - prev > 1)
+        	if(nums[i] != i)
         	{
-        		return num - 1;
+        		return i;
         	}
-        	prev = num;
         }
 
-        return -1;
+        return nums.length;
     }
 }
 

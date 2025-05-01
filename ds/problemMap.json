@@ -350,5 +350,18 @@
 	"courseScheduleII": {
 		"geeksForGeeks": 707516,
 		"leetCode": 210
+	},
+	"reverseAlternateLevelsBinaryTree": {
+		"geeksForGeeks": 700206
+	},
+	"queueUsingLinkedList": {
+		"geeksForGeeks": 700210
+	},
+	"queueUsingArray": {
+		"geeksForGeeks": 700211
+	},
+	"wordLadder": {
+		"geeksForGeeks": 701841,
+		"leetCode": 127
 	}
 }

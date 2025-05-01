@@ -90,10 +90,10 @@ public class Problem210
         for(int i = 0; i < edgeCount; i++)
         {
             int[] edge = prerequisites[i];
-            int source = edge[0];
-            int destination = edge[1];
+            int course = edge[0];
+            int prerequisite = edge[1];
 
-            adj.get(source).add(destination);
+            adj.get(prerequisite).add(course);
         }
 
         boolean[] recStack = new boolean[numCourses];
@@ -109,6 +109,7 @@ public class Problem210
             }
         }
 
+        Collections.reverse(order);
         return order.stream().mapToInt(Integer::intValue).toArray();
     }
 
