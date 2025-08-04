@@ -62,7 +62,8 @@
 	},
 	"singleNumber": {
 		"stoneyCodes": 16,
-		"leetCode": 136
+		"leetCode": 136,
+		"geeksForGeeks": 893307
 	},
 	"coinChange": {
 		"stoneyCodes": 17,
