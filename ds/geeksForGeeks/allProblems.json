@@ -1,5 +1,911 @@
 [
  {
+  "id": 904424,
+  "problemName": "Elements in range [a, b]",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/find-number-of-elements-in-range-a-b-for-each-query/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 907161,
+  "problemName": "Sum of Mode",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/sum-of-mode/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 907133,
+  "problemName": "Maximum subarray sum 2",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/maximum-subarray-sum--110820/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 906671,
+  "problemName": "Sort array I",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/sort-array-ii/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 906883,
+  "problemName": "Max Xor Subarray of size K",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/max-xor-subarray-of-size-k/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 906672,
+  "problemName": "Find the Peak Element in a 2D Matrix",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/find-the-peak-element-in-a-2d-matrix/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 904341,
+  "problemName": "Largest Square with Sum at Most K",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/largest-square-with-sum-at-most-k/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 712601,
+  "problemName": "Minimum Swaps required to group all 1s together II",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-group-all-1s-together-ii/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 711354,
+  "problemName": "Prefix Sum of Matrix (Or 2D Array)",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/prefix-sum-of-matrix-or-2d-array/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 709615,
+  "problemName": "Lexicographical Smallest String",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/lexicographical-smallest-string/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 709469,
+  "problemName": "Minimum steps to reach last column of binary matrix",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/minimum-steps-to-reach-last-column-of-binary-matrix/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 708923,
+  "problemName": "Strange indices",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/strange-indices/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 708867,
+  "problemName": "Frequency of a substring in a string",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/frequency-of-a-substring-in-a-string/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 715878,
+  "problemName": "Smart Mobile Customization",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/smart-mobile-customization/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 708755,
+  "problemName": "Optimal File Merge",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/optimal-file-merge/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 730570,
+  "problemName": "Three machines",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/three-machines/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 716064,
+  "problemName": "Footpath Construction",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/footpath-construction/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 708475,
+  "problemName": "Maximum Team of K Player",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/maximum-team-of-k-player/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 708477,
+  "problemName": "Valid String Permutations",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/valid-string-permutations/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 708855,
+  "problemName": "Prime Substrings",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/prime-substrings/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 711354,
+  "problemName": "Prefix Sum of Matrix (Or 2D Array)",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/prefix-sum-of-matrix-or-2d-array/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 712601,
+  "problemName": "Minimum Swaps required to group all 1s together II",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-group-all-1s-together-ii/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 860837,
+  "problemName": "Special Integers",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/special-integers/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 714368,
+  "problemName": "Stack Problem",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/stack-problem/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 713101,
+  "problemName": "Subtracting Elements",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/make-array-zero-by-subtracting-equal-amounts/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 708917,
+  "problemName": "Add numbers in array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/add-numbers-in-array/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 708870,
+  "problemName": "Magic Triplets 2",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/magic-triplets-2/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 708523,
+  "problemName": "Add Two Numbers",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/add-two-numbers-1628835901/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 903890,
+  "problemName": "Maximize median after doing k addition operation",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/maximize-median-after-doing-k-addition-operation/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 903711,
+  "problemName": "Two Sum in Sorted Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/two-sum-in-sorted-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 898529,
+  "problemName": "Buzz Number",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/buzz-number/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 899289,
+  "problemName": "Find Rational Number",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/find-rational-number/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 899310,
+  "problemName": "Beautiful String",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/beautiful-string--164305/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 899451,
+  "problemName": "Count elements less than or equal to k in a sorted rotated array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-elements-less-than-or-equal-to-k-in-a-sorted-rotated-array/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 899513,
+  "problemName": "Difference Check",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/difference-check/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 903559,
+  "problemName": "Missing Element in Range",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/missing-element-in-range/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 903570,
+  "problemName": "Infix To Prefix Notation",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/infix-to-prefix-notation/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 898935,
+  "problemName": "Check Divisibility by 7",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/check-divisibility-by-7/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 899287,
+  "problemName": "Maximum Score",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/maximum-score--173045/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 899246,
+  "problemName": "Prime Factors of a number",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/prime-factor-of-a-number/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 894782,
+  "problemName": "Count City Population Categories",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-city-population-categories/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 901982,
+  "problemName": "Count Frequency of an Element in a Given Range",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-frequency-of-an-element-in-a-given-range/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 903563,
+  "problemName": "Square root of number upto given precision",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/square-root-of-number-upto-given-precision/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 899290,
+  "problemName": "The Sequential-Set Closure Conundrum",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/the-sequential-set-closure-conundrum/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 898524,
+  "problemName": "Spy Number",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/spy-number/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 895009,
+  "problemName": "Replace Employee ID with Department ID",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/replace-employee-id-with-department-id/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 894936,
+  "problemName": "Patients with Hypertension",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/patients-with-hypertension/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 894934,
+  "problemName": "Invalid Comments",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/invalid-comments/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 898554,
+  "problemName": "Smallest and Largest word",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/smallest-and-largest/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 903529,
+  "problemName": "Maximize Median After k  Additions",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/maximize-median-after-k-additions/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 899308,
+  "problemName": "Thieves in the Shadows",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/thieves-in-the-shadows/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 895092,
+  "problemName": "Flatten a 3D Array into a 1D Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/flatten-a-3d-array-into-a-1d-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895090,
+  "problemName": "Accessing a Specific Element in a 3D Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/accessing-a-specific-element-in-a-3d-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895072,
+  "problemName": "Reverse Rows of a 2D Numpy Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/reverse-rows-of-a-2d-numpy-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895065,
+  "problemName": "Search for an Element in a 2D Numpy Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/search-for-an-element-in-a-2d-numpy-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895063,
+  "problemName": "Transpose of a Matrix",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/transpose-of-a-matrix/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895061,
+  "problemName": "Element-wise Exponentiation",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/element-wise-exponentiation/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895060,
+  "problemName": "Linear Algebra - Solve Linear System",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/linear-algebra-solve-linear-system/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895057,
+  "problemName": "Find the Standard Deviation of a Numpy Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/find-the-standard-deviation-of-a-numpy-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895056,
+  "problemName": "Reshape a Numpy Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/reshape-a-numpy-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895047,
+  "problemName": "Find the Maximum Element in a Numpy Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/find-the-maximum-element-in-a-numpy-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895041,
+  "problemName": "Delete Duplicate Phone Numbers",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/delete-duplicate-phone-numbers/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895040,
+  "problemName": "Most Frequent Student Scores",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/most-frequent-student-scores/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895039,
+  "problemName": "Gender-Based Age Distribution",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/gender-based-age-distribution/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895038,
+  "problemName": "Salary Trends Across Departments",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/salary-trends-across-departments/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895028,
+  "problemName": "Frequent Commenters on Own Articles",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/frequent-commenters-on-own-articles/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 894962,
+  "problemName": "Salesperson Without Orders to Company \"BLUE",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/salesperson-without-orders-to-company-blue/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 899396,
+  "problemName": "Minimum Darkness",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/minimum-darkness/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 901828,
+  "problemName": "Maximum Non-Overlapping Odd Palindrome Sum",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/maximum-non-overlapping-odd-palindrome-sum/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 903692,
+  "problemName": "K-th Missing Element in Natural Numbers",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/k-th-missing-element-in-natural-numbers/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 904403,
+  "problemName": "Prefix Sum Range Query",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/prefix-sum-range-query/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 904159,
+  "problemName": "Maximize the minimum difference between k elements",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/maximize-the-minimum-difference-between-k-elements/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 904168,
+  "problemName": "Frequency of Elements",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/frequency-of-elements--111353/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 903718,
+  "problemName": "Count X in Range of a Sorted Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-x-in-range-of-a-sorted-array/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 903897,
+  "problemName": "Row with Max 1s",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/row-with-max-1s--162208/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 903888,
+  "problemName": "Count Occurrences in a Fully Sorted Matrix",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-occurrences-in-a-fully-sorted-matrix/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 903863,
+  "problemName": "Design a Car Class",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/design-a-car-class--125330/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 897473,
+  "problemName": "Local Min and Max Sequence Ordering",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/track-the-trail/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 903618,
+  "problemName": "Farthest Smaller Right",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/farthest-smaller-right/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 900158,
+  "problemName": "Sort string according to increasing frequency",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/sort-string-according-to-increasing-frequency/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 878019,
+  "problemName": "Row Sum in a Matrix",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/row-sum-in-a-matrix/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 704407,
+  "problemName": "Function With Return Value",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/function-with-return-value/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 705373,
+  "problemName": "Slice The String",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/slice-the-string--141628/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 878890,
+  "problemName": "For Loop - 1",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/for-loop-1-1605617969--181812/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 901830,
+  "problemName": "Separate chaining in Hashing",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/separate-chaining-in-hashing-1587115621--124916/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 898567,
+  "problemName": "Toggle Case",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/toggle-case/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 900169,
+  "problemName": "Sort an array of strings according to string lengths",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/sort-an-array-of-strings-according-to-string-lengths/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 901725,
+  "problemName": "Longest Periodic Proper Prefix",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/longest-periodic-proper-prefix/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 900159,
+  "problemName": "Palindrome Substring Queries",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/palindrome-substring-queries/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 899522,
+  "problemName": "Count pairs of strings with one mismatch",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-pairs-of-strings-with-one-mismatch/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 899453,
+  "problemName": "Number of submatrix have sum X",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/number-of-submatrix-have-sum-k/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 899449,
+  "problemName": "1-D prefix sum",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/1-d-prefix-sum/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 899466,
+  "problemName": "Array Traversal",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/array-traversal--120447/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 899465,
+  "problemName": "Decrement Array Values",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/decrement-array-values--120247/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 899464,
+  "problemName": "Size of an Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/size-of-an-array--120018/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 899460,
+  "problemName": "Evaluate Formulae",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/evaluate-formulae--112853/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 899458,
+  "problemName": "Be Precise in C",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/be-precise-in-c--101423/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 884372,
+  "problemName": "Balancing Consonants and Vowels Ratio",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/balancing-consonants-and-vowels-ratio/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 899286,
+  "problemName": "2D Submatrix Sum Queries",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/2d-submatrix-sum-queries/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 898530,
+  "problemName": "Difference Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/difference-array/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 899452,
+  "problemName": "Quadratic Probing in Hashing",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/quadratic-probing-in-hashing-1587115621--173701/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 899427,
+  "problemName": "Function With No Arguments",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/function-with-no-arguments-1605703188--105929/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 899422,
+  "problemName": "Print GeeksForGeeks",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/print-geeksforgeeks--103724/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 899447,
+  "problemName": "Calculator",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/calculator--122254/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 899446,
+  "problemName": "Find if +ve, -ve or 0",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/find-if-ve-ve-or-0--121835/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 899445,
+  "problemName": "The Size of Operator",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/the-size-of-operator--120433/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 899441,
+  "problemName": "Print GeeksForGeeks",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/print-geeksforgeeks--120151/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 899426,
+  "problemName": "Bitwise Operators",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/bitwise-operators-1597314674--105432/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 899433,
+  "problemName": "Data Types",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/data-types--113418/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 899431,
+  "problemName": "Swap The Numbers",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/swap-the-numbers--113021/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 899401,
+  "problemName": "Dynamic Memory Allocation",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/dynamic-memory-allocation--120500/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 899400,
+  "problemName": "Shortest substring containing all vowels",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/shortest-substring-containing-all-vowels/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 897592,
+  "problemName": "Count Even Letters",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-even-letters/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 898512,
+  "problemName": "ASCII Range Sum",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/ascii-range-sum/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 899248,
+  "problemName": "2D Difference Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/2-d-difference-array/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 898517,
+  "problemName": "Count Indices to Balance Even and Odd Sums",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-indices-to-balance-even-and-odd-sums/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 898461,
+  "problemName": "Swap  diagonals",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/swap-major-and-minor-diagonals-of-a-square-matrix/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 898471,
+  "problemName": "Construct an array from its pair-sum array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/construct-an-array-from-its-pair-sum-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 898474,
+  "problemName": "All Divisors",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/all-divisors/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 897521,
+  "problemName": "Rotate Array Clockwise",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/rotate-array-clockwise/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 898469,
+  "problemName": "Floor and Ceil of Integer Division",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/floor-and-ceil-of-integer-division/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 898445,
+  "problemName": "Count the Coprimes",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-the-coprimes/1",
+  "difficulty": "Hard"
+ },
+ {
+  "id": 897415,
+  "problemName": "Inverse Division",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/inverse-division/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 897418,
+  "problemName": "Count Numbers Divisible by Given Primes",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-numbers-divisible-by-given-primes/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 898447,
+  "problemName": "Count Unique Vowel Strings",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-unique-vowel-strings/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 897411,
+  "problemName": "Divisible by 13",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/divisible-by-13/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 897662,
+  "problemName": "LCM of two numbers",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 897413,
+  "problemName": "Modular Multiplication",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/modular-multiplication/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 898448,
+  "problemName": "Count Numbers Containing Specific Digits",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-numbers-containing-specific-digits/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 895055,
+  "problemName": "Find the Mean of a Numpy Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/find-the-mean-of-a-numpy-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895068,
+  "problemName": "Sorting a 2D Numpy Array by Each Column",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/sorting-a-2d-numpy-array-by-each-column/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895062,
+  "problemName": "Array Concatenation",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/array-concatenation/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895059,
+  "problemName": "Matrix Multiplication",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/matrix-multiplication--132654/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895027,
+  "problemName": "Eco-Friendly and Low-Calorie Products",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/eco-friendly-and-sugar-free-products/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895064,
+  "problemName": "Sorting a Numpy Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/sorting-a-numpy-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 894932,
+  "problemName": "Number of Unique Projects Worked on by Each Employee",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/number-of-unique-projects-worked-on-by-each-employee/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895037,
+  "problemName": "Count Product Categories",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-product-categories/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 894781,
+  "problemName": "Rank Scores",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/rank-scores/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 894752,
+  "problemName": "High-Rated and Expensive Products",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/high-rated-and-expensive-products/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 897958,
+  "problemName": "Lexicographically Largest String After K Deletions",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/lexicographically-largest-string-after-deleting-k-characters/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 898063,
+  "problemName": "Group Balls by Sequence",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/group-balls-by-sequence/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 895107,
+  "problemName": "Slice a 3D Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/slice-a-3d-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895103,
+  "problemName": "Find the Maximum Element along Each Axses in a 3D Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/find-the-maximum-element-along-each-axses-in-a-3d-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895089,
+  "problemName": "Create a 3D Array from a List of Lists",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/create-a-3d-array-from-a-list-of-lists/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895046,
+  "problemName": "Find the Sum of All Elements in a Numpy Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/find-the-sum-of-all-elements-in-a-numpy-array/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 894963,
+  "problemName": "Team Leaders with At Least 4 Members",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/team-leaders-with-at-least-4-members/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 894935,
+  "problemName": "Calculate Discount for Products",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/calculate-discount-for-products/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 894774,
+  "problemName": "Second Highest Salary",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/second-highest-salary/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 894766,
+  "problemName": "Students Eligible for Graduation",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/students-eligible-for-graduation/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 894891,
+  "problemName": "Daily Products and Customers",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/daily-products-and-customers/1",
+  "difficulty": "Easy"
+ },
+ {
+  "id": 895084,
+  "problemName": "Find Diagonal Elements in a 2D Numpy Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/find-diagonal-elements-in-a-2d-numpy-array/1",
+  "difficulty": "Easy"
+ },
+ {
   "id": 893416,
   "problemName": "Minimum Distance between Two Points",
   "problemUrl": "https://www.geeksforgeeks.org/problems/minimum-distance-between-two-points/1",
@@ -181,7 +1087,7 @@
  },
  {
   "id": 888216,
-  "problemName": "Max consecutive one",
+  "problemName": "Max Consecutive Bit",
   "problemUrl": "https://www.geeksforgeeks.org/problems/max-consecutive-one/1",
   "difficulty": "Easy"
  },
@@ -483,7 +1389,7 @@
   "id": 880847,
   "problemName": "Search for Subarray",
   "problemUrl": "https://www.geeksforgeeks.org/problems/search-for-subarray/1",
-  "difficulty": "Medium"
+  "difficulty": "Hard"
  },
  {
   "id": 876764,
@@ -906,18 +1812,6 @@
   "difficulty": "Easy"
  },
  {
-  "id": 878890,
-  "problemName": "For Loop - 1",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/for-loop-1-1605617969--181812/1",
-  "difficulty": "Basic"
- },
- {
-  "id": 878887,
-  "problemName": "While Loop",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/while-loop--175711/1",
-  "difficulty": "Basic"
- },
- {
   "id": 878885,
   "problemName": "Calculator",
   "problemUrl": "https://www.geeksforgeeks.org/problems/calculator--172632/1",
@@ -981,6 +1875,12 @@
   "id": 878832,
   "problemName": "Find if +ve, -ve or 0",
   "problemUrl": "https://www.geeksforgeeks.org/problems/find-if-ve-ve-or-0--111305/1",
+  "difficulty": "Basic"
+ },
+ {
+  "id": 878887,
+  "problemName": "While Loop",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/while-loop--175711/1",
   "difficulty": "Basic"
  },
  {
@@ -1113,7 +2013,7 @@
   "id": 878682,
   "problemName": "Swap The Numbers",
   "problemUrl": "https://www.geeksforgeeks.org/problems/swap-the-numbers--150024/1",
-  "difficulty": "School"
+  "difficulty": "Basic"
  },
  {
   "id": 878634,
@@ -1191,12 +2091,6 @@
   "id": 878161,
   "problemName": "Column Sum in a Matrix",
   "problemUrl": "https://www.geeksforgeeks.org/problems/column-sum-in-a-matrix/1",
-  "difficulty": "Easy"
- },
- {
-  "id": 878019,
-  "problemName": "Row Sum in a Matrix",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/row-sum-in-a-matrix/1",
   "difficulty": "Easy"
  },
  {
@@ -1303,7 +2197,7 @@
  },
  {
   "id": 878151,
-  "problemName": "Last Moment Before All Ants Fall Out of a Plank",
+  "problemName": "Last Moment Before All Ants Fall Out",
   "problemUrl": "https://www.geeksforgeeks.org/problems/last-moment-before-all-ants-fall-out-of-a-plank/1",
   "difficulty": "Medium"
  },
@@ -1497,7 +2391,7 @@
   "id": 875937,
   "problemName": "Count pairs with given sum",
   "problemUrl": "https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1",
-  "difficulty": "Easy"
+  "difficulty": "Medium"
  },
  {
   "id": 875914,
@@ -1549,7 +2443,7 @@
  },
  {
   "id": 874880,
-  "problemName": "Set Matrix Zeroes",
+  "problemName": "Set Matrix Zeros",
   "problemUrl": "https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1",
   "difficulty": "Medium"
  },
@@ -1729,9 +2623,9 @@
  },
  {
   "id": 700232,
-  "problemName": "Doubly linked list Insertion at given position",
+  "problemName": "Insertion at doubly linked list",
   "problemUrl": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1",
-  "difficulty": "Basic"
+  "difficulty": "Easy"
  },
  {
   "id": 702723,
@@ -1843,7 +2737,7 @@
  },
  {
   "id": 702910,
-  "problemName": "Sort The Array",
+  "problemName": "Sort Array II",
   "problemUrl": "https://www.geeksforgeeks.org/problems/sort-the-array0055/1",
   "difficulty": "Basic"
  },
@@ -2973,7 +3867,7 @@
   "id": 700161,
   "problemName": "Delete without head pointer",
   "problemUrl": "https://www.geeksforgeeks.org/problems/delete-without-head-pointer/1",
-  "difficulty": "Easy"
+  "difficulty": "Medium"
  },
  {
   "id": 703483,
@@ -2995,7 +3889,7 @@
  },
  {
   "id": 700127,
-  "problemName": "Sorted insert for circular linked list",
+  "problemName": "Insert in Sorted Circular Linked List",
   "problemUrl": "https://www.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1",
   "difficulty": "Medium"
  },
@@ -3553,7 +4447,7 @@
  },
  {
   "id": 712100,
-  "problemName": "Majority Element II",
+  "problemName": "Majority Element - More Than n/3",
   "problemUrl": "https://www.geeksforgeeks.org/problems/majority-vote/1",
   "difficulty": "Medium"
  },
@@ -3567,7 +4461,7 @@
   "id": 701749,
   "problemName": "Nth number made of prime digits",
   "problemUrl": "https://www.geeksforgeeks.org/problems/nth-number-made-of-prime-digits4319/1",
-  "difficulty": "Easy"
+  "difficulty": "Medium"
  },
  {
   "id": 703192,
@@ -3781,7 +4675,7 @@
  },
  {
   "id": 706394,
-  "problemName": "Insertion Sort for Singly Linked List",
+  "problemName": "Sort for Singly Linked List",
   "problemUrl": "https://www.geeksforgeeks.org/problems/insertion-sort-for-singly-linked-list/1",
   "difficulty": "Medium"
  },
@@ -3949,13 +4843,13 @@
  },
  {
   "id": 700258,
-  "problemName": "Remove duplicates in array",
+  "problemName": "Remove Duplicates from an array",
   "problemUrl": "https://www.geeksforgeeks.org/problems/remove-duplicates-in-small-prime-array/1",
   "difficulty": "Easy"
  },
  {
   "id": 712123,
-  "problemName": "Find length of the longest subarray containing atmost two distinct integers",
+  "problemName": "Longest subarray with Atmost two distinct integers",
   "problemUrl": "https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1",
   "difficulty": "Medium"
  },
@@ -4209,7 +5103,7 @@
   "id": 703436,
   "problemName": "First and Second Smallests",
   "problemUrl": "https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1",
-  "difficulty": "Basic"
+  "difficulty": "Easy"
  },
  {
   "id": 700562,
@@ -4363,7 +5257,7 @@
  },
  {
   "id": 700039,
-  "problemName": "Count Linked List Nodes",
+  "problemName": "Find Length of Linked List",
   "problemUrl": "https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1",
   "difficulty": "Basic"
  },
@@ -4479,7 +5373,7 @@
   "id": 700208,
   "problemName": "Implement stack using array",
   "problemUrl": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1",
-  "difficulty": "Basic"
+  "difficulty": "Easy"
  },
  {
   "id": 702768,
@@ -4557,7 +5451,7 @@
   "id": 701191,
   "problemName": "Reverse array in groups",
   "problemUrl": "https://www.geeksforgeeks.org/problems/reverse-array-in-groups0255/1",
-  "difficulty": "Basic"
+  "difficulty": "Medium"
  },
  {
   "id": 704431,
@@ -4800,18 +5694,6 @@
   "difficulty": "Medium"
  },
  {
-  "id": 714256,
-  "problemName": "Cake Distribution Problem",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/cake-distribution-problem--170647/1",
-  "difficulty": "Hard"
- },
- {
-  "id": 714258,
-  "problemName": "Another Coin Change Problem",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/another-coin-change-problem--170647/1",
-  "difficulty": "Medium"
- },
- {
   "id": 714259,
   "problemName": "Seating Arrangement",
   "problemUrl": "https://www.geeksforgeeks.org/problems/seating-arrangement--170647/1",
@@ -4830,6 +5712,12 @@
   "difficulty": "Easy"
  },
  {
+  "id": 714258,
+  "problemName": "Another Coin Change Problem",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/another-coin-change-problem--170647/1",
+  "difficulty": "Medium"
+ },
+ {
   "id": 714264,
   "problemName": "Find Number",
   "problemUrl": "https://www.geeksforgeeks.org/problems/find-number--170647/1",
@@ -4837,9 +5725,9 @@
  },
  {
   "id": 714272,
-  "problemName": "Powerfull Integer",
+  "problemName": "Powerful Integer",
   "problemUrl": "https://www.geeksforgeeks.org/problems/powerfull-integer--170647/1",
-  "difficulty": "Easy"
+  "difficulty": "Medium"
  },
  {
   "id": 714273,
@@ -4854,15 +5742,15 @@
   "difficulty": "Medium"
  },
  {
+  "id": 714256,
+  "problemName": "Cake Distribution Problem",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/cake-distribution-problem--170647/1",
+  "difficulty": "Hard"
+ },
+ {
   "id": 714276,
   "problemName": "Subtree In N-ary Tree",
   "problemUrl": "https://www.geeksforgeeks.org/problems/subtree-in-n-ary-tree--170647/1",
-  "difficulty": "Medium"
- },
- {
-  "id": 714277,
-  "problemName": "Easy Task",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/easy-task--170647/1",
   "difficulty": "Medium"
  },
  {
@@ -4872,16 +5760,22 @@
   "difficulty": "Easy"
  },
  {
-  "id": 714438,
-  "problemName": "Game Of Subsets",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/game-of-subsets/1",
-  "difficulty": "Hard"
+  "id": 714259,
+  "problemName": "Seating Arrangement",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/seating-arrangement--170647/1",
+  "difficulty": "Easy"
  },
  {
   "id": 714254,
   "problemName": "Nearest smaller tower",
   "problemUrl": "https://www.geeksforgeeks.org/problems/nearest-smaller-tower--170647/1",
   "difficulty": "Medium"
+ },
+ {
+  "id": 714438,
+  "problemName": "Game Of Subsets",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/game-of-subsets/1",
+  "difficulty": "Hard"
  },
  {
   "id": 714322,
@@ -4926,15 +5820,15 @@
   "difficulty": "Easy"
  },
  {
-  "id": 714216,
-  "problemName": "Bheem Wants Ladoos",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/bheem-wants-ladoos--170647/1",
-  "difficulty": "Medium"
- },
- {
   "id": 714218,
   "problemName": "Prefix Suffix String",
   "problemUrl": "https://www.geeksforgeeks.org/problems/prefix-suffix-string--170647/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 714216,
+  "problemName": "Bheem Wants Ladoos",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/bheem-wants-ladoos--170647/1",
   "difficulty": "Medium"
  },
  {
@@ -4980,10 +5874,10 @@
   "difficulty": "Easy"
  },
  {
-  "id": 714169,
-  "problemName": "Remove the balls",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/remove-the-balls--170647/1",
-  "difficulty": "Medium"
+  "id": 713999,
+  "problemName": "Partition the Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/partition-the-array--170647/1",
+  "difficulty": "Hard"
  },
  {
   "id": 714333,
@@ -5022,15 +5916,21 @@
   "difficulty": "Hard"
  },
  {
-  "id": 714006,
-  "problemName": "Count Special Numbers",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/count-special-numbers--170647/1",
+  "id": 714321,
+  "problemName": "Add Minimum Characters",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/add-minimum-characters--170648/1",
   "difficulty": "Medium"
  },
  {
   "id": 714007,
   "problemName": "Minimum Steps Required",
   "problemUrl": "https://www.geeksforgeeks.org/problems/minimum-steps-required--170647/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 714006,
+  "problemName": "Count Special Numbers",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-special-numbers--170647/1",
   "difficulty": "Medium"
  },
  {
@@ -5040,16 +5940,10 @@
   "difficulty": "Easy"
  },
  {
-  "id": 714007,
-  "problemName": "Minimum Steps Required",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/minimum-steps-required--170647/1",
-  "difficulty": "Medium"
- },
- {
-  "id": 714321,
-  "problemName": "Add Minimum Characters",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/add-minimum-characters--170648/1",
-  "difficulty": "Medium"
+  "id": 714011,
+  "problemName": "Remainder on dividing by 11",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/remainder-on-dividing-by-11--170647/1",
+  "difficulty": "Easy"
  },
  {
   "id": 714000,
@@ -5112,27 +6006,27 @@
   "difficulty": "Easy"
  },
  {
-  "id": 714082,
-  "problemName": "Taxi Booking",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/taxi-booking--170647/1",
-  "difficulty": "Easy"
- },
- {
   "id": 714247,
   "problemName": "BST Maximum Difference",
   "problemUrl": "https://www.geeksforgeeks.org/problems/bst-maximum-difference--170647/1",
   "difficulty": "Medium"
  },
  {
-  "id": 713997,
-  "problemName": "String rp or pr",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/string-rp-or-pr--170647/1",
-  "difficulty": "Medium"
+  "id": 714082,
+  "problemName": "Taxi Booking",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/taxi-booking--170647/1",
+  "difficulty": "Easy"
  },
  {
   "id": 714246,
   "problemName": "Shortest XY distance in Grid",
   "problemUrl": "https://www.geeksforgeeks.org/problems/shortest-xy-distance-in-grid--170647/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 713997,
+  "problemName": "String rp or pr",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/string-rp-or-pr--170647/1",
   "difficulty": "Medium"
  },
  {
@@ -5232,9 +6126,21 @@
   "difficulty": "Easy"
  },
  {
-  "id": 713971,
-  "problemName": "Valid Compressed String",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/valid-compressed-string--170647/1",
+  "id": 713974,
+  "problemName": "Number of Good Components",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/number-of-good-components--170647/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 713972,
+  "problemName": "Fill the Matrix",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/fill-the-matrix--170647/1",
+  "difficulty": "Medium"
+ },
+ {
+  "id": 713990,
+  "problemName": "Good Stones",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/good-stones--170647/1",
   "difficulty": "Medium"
  },
  {
@@ -5244,16 +6150,10 @@
   "difficulty": "Easy"
  },
  {
-  "id": 713972,
-  "problemName": "Fill the Matrix",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/fill-the-matrix--170647/1",
-  "difficulty": "Medium"
- },
- {
-  "id": 713974,
-  "problemName": "Number of Good Components",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/number-of-good-components--170647/1",
-  "difficulty": "Medium"
+  "id": 713979,
+  "problemName": "Walls Coloring II",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/walls-coloring-ii--170647/1",
+  "difficulty": "Hard"
  },
  {
   "id": 713978,
@@ -5262,15 +6162,15 @@
   "difficulty": "Medium"
  },
  {
-  "id": 713979,
-  "problemName": "Walls Coloring II",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/walls-coloring-ii--170647/1",
-  "difficulty": "Hard"
+  "id": 713977,
+  "problemName": "Best Node",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/best-node--170647/1",
+  "difficulty": "Medium"
  },
  {
-  "id": 713990,
-  "problemName": "Good Stones",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/good-stones--170647/1",
+  "id": 713971,
+  "problemName": "Valid Compressed String",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/valid-compressed-string--170647/1",
   "difficulty": "Medium"
  },
  {
@@ -5280,34 +6180,28 @@
   "difficulty": "Hard"
  },
  {
-  "id": 713977,
-  "problemName": "Best Node",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/best-node--170647/1",
+  "id": 713976,
+  "problemName": "Optimal Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/optimal-array--170647/1",
   "difficulty": "Medium"
  },
  {
-  "id": 713978,
-  "problemName": "Update Queries",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/update-queries--170647/1",
+  "id": 713966,
+  "problemName": "Connect Nodes at Same Level",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/connect-nodes-at-same-level--170647/1",
   "difficulty": "Medium"
  },
  {
-  "id": 713990,
-  "problemName": "Good Stones",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/good-stones--170647/1",
-  "difficulty": "Medium"
- },
- {
-  "id": 713979,
-  "problemName": "Walls Coloring II",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/walls-coloring-ii--170647/1",
+  "id": 713968,
+  "problemName": "Shortest Path Using Atmost One Curved Edge",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/shortest-path-using-atmost-one-curved-edge--170647/1",
   "difficulty": "Hard"
  },
  {
-  "id": 713980,
-  "problemName": "Cutting Rectangles",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/cutting-rectangles--170647/1",
-  "difficulty": "Easy"
+  "id": 713969,
+  "problemName": "Unique Paths in a Grid",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/unique-paths-in-a-grid--170647/1",
+  "difficulty": "Medium"
  },
  {
   "id": 713597,
@@ -5401,7 +6295,7 @@
  },
  {
   "id": 713540,
-  "problemName": "Paint N House",
+  "problemName": "Paint N Houses",
   "problemUrl": "https://www.geeksforgeeks.org/problems/distinct-coloring--170645/1",
   "difficulty": "Medium"
  },
@@ -5698,12 +6592,6 @@
   "problemName": "Insert Interval",
   "problemUrl": "https://www.geeksforgeeks.org/problems/insert-interval-1666733333/1",
   "difficulty": "Medium"
- },
- {
-  "id": 712535,
-  "problemName": "Data Type",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/data-type-1666706751/1",
-  "difficulty": "Basic"
  },
  {
   "id": 712534,
@@ -7567,7 +8455,7 @@
  },
  {
   "id": 706186,
-  "problemName": "Find all possible palindromic partitions of a String",
+  "problemName": "All Palindromic Partitions",
   "problemUrl": "https://www.geeksforgeeks.org/problems/find-all-possible-palindromic-partitions-of-a-string/1",
   "difficulty": "Medium"
  },
@@ -7575,13 +8463,13 @@
   "id": 706183,
   "problemName": "Search Pattern (Rabin-Karp Algorithm)",
   "problemUrl": "https://www.geeksforgeeks.org/problems/search-pattern-rabin-karp-algorithm--141631/1",
-  "difficulty": "Medium"
+  "difficulty": "Hard"
  },
  {
   "id": 706182,
   "problemName": "Search Pattern (Z-algorithm)",
   "problemUrl": "https://www.geeksforgeeks.org/problems/search-pattern-z-algorithm--141631/1",
-  "difficulty": "Medium"
+  "difficulty": "Hard"
  },
  {
   "id": 706180,
@@ -8085,7 +8973,7 @@
   "id": 705752,
   "problemName": "Maximum sum Rectangle",
   "problemUrl": "https://www.geeksforgeeks.org/problems/maximum-sum-rectangle2948/1",
-  "difficulty": "Medium"
+  "difficulty": "Hard"
  },
  {
   "id": 705744,
@@ -8235,7 +9123,7 @@
   "id": 705707,
   "problemName": "Count the paths",
   "problemUrl": "https://www.geeksforgeeks.org/problems/count-the-paths4332/1",
-  "difficulty": "Easy"
+  "difficulty": "Medium"
  },
  {
   "id": 705706,
@@ -8545,7 +9433,7 @@
  },
  {
   "id": 705589,
-  "problemName": "Two numbers with odd occurrences",
+  "problemName": "Two odd Occuring",
   "problemUrl": "https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1",
   "difficulty": "Medium"
  },
@@ -9126,12 +10014,6 @@
   "difficulty": "Basic"
  },
  {
-  "id": 705373,
-  "problemName": "Slice The String",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/slice-the-string--141628/1",
-  "difficulty": "Basic"
- },
- {
   "id": 705372,
   "problemName": "Find Pattern",
   "problemUrl": "https://www.geeksforgeeks.org/problems/find-pattern--141628/1",
@@ -9541,7 +10423,7 @@
  },
  {
   "id": 705234,
-  "problemName": "Power of K in N! where K may be Non Prime",
+  "problemName": "Power of k in factorial of n",
   "problemUrl": "https://www.geeksforgeeks.org/problems/power-of-k-in-n-where-k-may-be-non-prime4206/1",
   "difficulty": "Medium"
  },
@@ -9571,7 +10453,7 @@
  },
  {
   "id": 705229,
-  "problemName": "Series with largest GCD and sum equals to N",
+  "problemName": "Maximize-GCD Increasing Sequence",
   "problemUrl": "https://www.geeksforgeeks.org/problems/series-with-largest-gcd-and-sum-equals-to-n1151/1",
   "difficulty": "Medium"
  },
@@ -9637,7 +10519,7 @@
  },
  {
   "id": 705204,
-  "problemName": "Nitika and her queries",
+  "problemName": "Array Sum Excluding Subarrays",
   "problemUrl": "https://www.geeksforgeeks.org/problems/nitika-and-her-queries4804/1",
   "difficulty": "Medium"
  },
@@ -9765,7 +10647,7 @@
   "id": 705143,
   "problemName": "Multiply 2 matrices",
   "problemUrl": "https://www.geeksforgeeks.org/problems/multiply-2-matrices4144/1",
-  "difficulty": "Basic"
+  "difficulty": "Medium"
  },
  {
   "id": 705142,
@@ -9789,7 +10671,7 @@
   "id": 705138,
   "problemName": "Rotate a Matrix by 180 Counterclockwise",
   "problemUrl": "https://www.geeksforgeeks.org/problems/c-matrix-rotation-by-180-degree0745/1",
-  "difficulty": "Easy"
+  "difficulty": "Medium"
  },
  {
   "id": 705133,
@@ -10227,7 +11109,7 @@
   "id": 705001,
   "problemName": "Find nth root of m",
   "problemUrl": "https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1",
-  "difficulty": "Easy"
+  "difficulty": "Medium"
  },
  {
   "id": 704995,
@@ -12204,12 +13086,6 @@
   "difficulty": "Basic"
  },
  {
-  "id": 704407,
-  "problemName": "Function With Return Value",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/function-with-return-value/1",
-  "difficulty": "Basic"
- },
- {
   "id": 704404,
   "problemName": "Divisor",
   "problemUrl": "https://www.geeksforgeeks.org/problems/divisor/1",
@@ -12669,7 +13545,7 @@
   "id": 704146,
   "problemName": "Sieve of Eratosthenes",
   "problemUrl": "https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1",
-  "difficulty": "Easy"
+  "difficulty": "Medium"
  },
  {
   "id": 704145,
@@ -13065,7 +13941,7 @@
   "id": 703991,
   "problemName": "Min cut Square",
   "problemUrl": "https://www.geeksforgeeks.org/problems/min-cut-square3303/1",
-  "difficulty": "Medium"
+  "difficulty": "Hard"
  },
  {
   "id": 703989,
@@ -13095,7 +13971,7 @@
   "id": 703981,
   "problemName": "Angle between hour and minute hand",
   "problemUrl": "https://www.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1",
-  "difficulty": "Basic"
+  "difficulty": "Medium"
  },
  {
   "id": 703980,
@@ -13221,7 +14097,7 @@
   "id": 703954,
   "problemName": "Prime Number",
   "problemUrl": "https://www.geeksforgeeks.org/problems/prime-number2314/1",
-  "difficulty": "Basic"
+  "difficulty": "Easy"
  },
  {
   "id": 703953,
@@ -13405,7 +14281,7 @@
  },
  {
   "id": 703909,
-  "problemName": "Modular Exponentiation for large numbers",
+  "problemName": "Modular Exponentiation",
   "problemUrl": "https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1",
   "difficulty": "Medium"
  },
@@ -13425,7 +14301,7 @@
   "id": 703905,
   "problemName": "Sum Of Digits",
   "problemUrl": "https://www.geeksforgeeks.org/problems/sum-of-digits1742/1",
-  "difficulty": "Basic"
+  "difficulty": "Easy"
  },
  {
   "id": 703903,
@@ -14683,7 +15559,7 @@
  },
  {
   "id": 703549,
-  "problemName": "Minimum number of deletions.",
+  "problemName": "Minimum number of deletions",
   "problemUrl": "https://www.geeksforgeeks.org/problems/minimum-number-of-deletions4610/1",
   "difficulty": "Medium"
  },
@@ -15181,7 +16057,7 @@
  },
  {
   "id": 703322,
-  "problemName": "Exceptionally odd",
+  "problemName": "One odd Occuring",
   "problemUrl": "https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1",
   "difficulty": "Basic"
  },
@@ -15237,7 +16113,7 @@
   "id": 703282,
   "problemName": "Substrings with same first and last characters",
   "problemUrl": "https://www.geeksforgeeks.org/problems/substrings-with-similar-first-and-last-characters3644/1",
-  "difficulty": "Basic"
+  "difficulty": "Easy"
  },
  {
   "id": 703280,
@@ -15721,7 +16597,7 @@
  },
  {
   "id": 703119,
-  "problemName": "Search Pattern (KMP-Algorithm)",
+  "problemName": "Search Pattern",
   "problemUrl": "https://www.geeksforgeeks.org/problems/search-pattern0205/1",
   "difficulty": "Hard"
  },
@@ -16041,7 +16917,7 @@
   "id": 703003,
   "problemName": "Palindrome SubStrings",
   "problemUrl": "https://www.geeksforgeeks.org/problems/count-palindrome-sub-strings-of-a-string0652/1",
-  "difficulty": "Medium"
+  "difficulty": "Hard"
  },
  {
   "id": 703002,
@@ -16284,16 +17160,34 @@
   "difficulty": "Medium"
  },
  {
+  "id": 702942,
+  "problemName": "Are Strings Equal",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/are-strings-equal/1",
+  "difficulty": "Basic"
+ },
+ {
   "id": 702941,
   "problemName": "ADA Noise",
   "problemUrl": "https://www.geeksforgeeks.org/problems/ada-noise2029/1",
   "difficulty": "Easy"
  },
  {
+  "id": 702940,
+  "problemName": "One Extra Character",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/one-extra-character/1",
+  "difficulty": "Easy"
+ },
+ {
   "id": 702939,
   "problemName": "Sort the given array after applying the given equation",
   "problemUrl": "https://www.geeksforgeeks.org/problems/sort-the-given-array-after-applying-the-given-equation0304/1",
-  "difficulty": "Easy"
+  "difficulty": "Medium"
+ },
+ {
+  "id": 702938,
+  "problemName": "String Concatenation",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/string-concatenation/1",
+  "difficulty": "Basic"
  },
  {
   "id": 702936,
@@ -16575,7 +17469,7 @@
   "id": 702835,
   "problemName": "Count pairs Sum in matrices",
   "problemUrl": "https://www.geeksforgeeks.org/problems/count-pairs-sum-in-matrices4332/1",
-  "difficulty": "Easy"
+  "difficulty": "Medium"
  },
  {
   "id": 702833,
@@ -16585,7 +17479,7 @@
  },
  {
   "id": 702829,
-  "problemName": "Smallest factorial number",
+  "problemName": "Smallest number with at least n trailing zeroes in factorial",
   "problemUrl": "https://www.geeksforgeeks.org/problems/smallest-factorial-number5929/1",
   "difficulty": "Medium"
  },
@@ -17083,7 +17977,7 @@
  },
  {
   "id": 702060,
-  "problemName": "Display Linked List",
+  "problemName": "Print Linked List",
   "problemUrl": "https://www.geeksforgeeks.org/problems/display-linked-list/1",
   "difficulty": "Basic"
  },
@@ -17569,7 +18463,7 @@
  },
  {
   "id": 701598,
-  "problemName": "Pangram Checking",
+  "problemName": "Panagram Checking",
   "problemUrl": "https://www.geeksforgeeks.org/problems/panagram-checking/1",
   "difficulty": "Basic"
  },
@@ -17707,7 +18601,7 @@
  },
  {
   "id": 701389,
-  "problemName": "Count Total Digits in a Number",
+  "problemName": "Count Digits in a Number",
   "problemUrl": "https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1",
   "difficulty": "Easy"
  },
@@ -17881,9 +18775,9 @@
  },
  {
   "id": 701321,
-  "problemName": "Repeating Character - First Appearance Leftmost",
+  "problemName": "Repeating Character",
   "problemUrl": "https://www.geeksforgeeks.org/problems/repeating-character-first-appearance-leftmost/1",
-  "difficulty": "Basic"
+  "difficulty": "Easy"
  },
  {
   "id": 701314,
@@ -17901,11 +18795,11 @@
   "id": 701312,
   "problemName": "Sum of numbers in string",
   "problemUrl": "https://www.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1",
-  "difficulty": "Basic"
+  "difficulty": "Easy"
  },
  {
   "id": 701310,
-  "problemName": "Smallest window containing all characters of another string",
+  "problemName": "Smallest window containing all characters",
   "problemUrl": "https://www.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1",
   "difficulty": "Hard"
  },
@@ -17937,7 +18831,7 @@
   "id": 701299,
   "problemName": "Most Frequent Character",
   "problemUrl": "https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1",
-  "difficulty": "Basic"
+  "difficulty": "Easy"
  },
  {
   "id": 701298,
@@ -17949,7 +18843,7 @@
   "id": 701297,
   "problemName": "Strings Rotations of Each Other",
   "problemUrl": "https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1",
-  "difficulty": "Easy"
+  "difficulty": "Medium"
  },
  {
   "id": 701296,
@@ -18003,7 +18897,7 @@
   "id": 701282,
   "problemName": "Check if a string is Isogram or not",
   "problemUrl": "https://www.geeksforgeeks.org/problems/check-if-a-string-is-isogram-or-not-1587115620/1",
-  "difficulty": "Basic"
+  "difficulty": "Easy"
  },
  {
   "id": 701281,
@@ -18075,7 +18969,7 @@
   "id": 701267,
   "problemName": "Rotate by 90 degree",
   "problemUrl": "https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1",
-  "difficulty": "Easy"
+  "difficulty": "Medium"
  },
  {
   "id": 701266,
@@ -18175,7 +19069,7 @@
  },
  {
   "id": 701235,
-  "problemName": "Union of 2 Sorted with Duplicates",
+  "problemName": "Union of 2 Sorted Arrays",
   "problemUrl": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
   "difficulty": "Medium"
  },
@@ -18207,7 +19101,7 @@
   "id": 701223,
   "problemName": "Binary Array Sorting",
   "problemUrl": "https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1",
-  "difficulty": "Basic"
+  "difficulty": "Medium"
  },
  {
   "id": 701222,
@@ -18315,7 +19209,7 @@
   "id": 701198,
   "problemName": "Wave Array",
   "problemUrl": "https://www.geeksforgeeks.org/problems/wave-array-1587115621/1",
-  "difficulty": "Easy"
+  "difficulty": "Medium"
  },
  {
   "id": 701197,
@@ -18361,7 +19255,7 @@
  },
  {
   "id": 701172,
-  "problemName": "Swap all odd and even bits",
+  "problemName": "Swap  odd and even bits",
   "problemUrl": "https://www.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1",
   "difficulty": "Easy"
  },
@@ -18379,9 +19273,15 @@
  },
  {
   "id": 701167,
-  "problemName": "Gray to Binary equivalent",
+  "problemName": "Gray to Binary Conversion",
   "problemUrl": "https://www.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1",
   "difficulty": "Medium"
+ },
+ {
+  "id": 701166,
+  "problemName": "Mean And Median of Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/mean-and-median-1587115620/1",
+  "difficulty": "Easy"
  },
  {
   "id": 701163,
@@ -18403,13 +19303,13 @@
  },
  {
   "id": 701158,
-  "problemName": "Count total set bits",
+  "problemName": "Count set bits",
   "problemUrl": "https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1",
   "difficulty": "Medium"
  },
  {
   "id": 701154,
-  "problemName": "K-th Bit is Set or Not",
+  "problemName": "Check K-th Bit",
   "problemUrl": "https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1",
   "difficulty": "Easy"
  },
@@ -18483,7 +19383,7 @@
   "id": 701111,
   "problemName": "Decimal to binary",
   "problemUrl": "https://www.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1",
-  "difficulty": "Basic"
+  "difficulty": "Easy"
  },
  {
   "id": 701104,
@@ -18511,7 +19411,7 @@
  },
  {
   "id": 701069,
-  "problemName": "Pairwise swap of nodes in LinkedList",
+  "problemName": "Pairwise swap of nodes in Linked List",
   "problemUrl": "https://www.geeksforgeeks.org/problems/pairwise-swap-of-nodes-in-linkelist/1",
   "difficulty": "Medium"
  },
@@ -19449,7 +20349,7 @@
   "id": 700512,
   "problemName": "Peak element",
   "problemUrl": "https://www.geeksforgeeks.org/problems/peak-element/1",
-  "difficulty": "Basic"
+  "difficulty": "Medium"
  },
  {
   "id": 700437,
@@ -19981,9 +20881,9 @@
  },
  {
   "id": 700528,
-  "problemName": "C++ Pointers ( Incrementing a variable) | Set 1",
+  "problemName": "Increment a variable",
   "problemUrl": "https://www.geeksforgeeks.org/problems/c-pointers-set-1introduction/1",
-  "difficulty": "Basic"
+  "difficulty": "Easy"
  },
  {
   "id": 700527,
@@ -20461,7 +21361,7 @@
  },
  {
   "id": 700309,
-  "problemName": "Kth element in Matrix",
+  "problemName": "Kth smallest element in a Matrix",
   "problemUrl": "https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1",
   "difficulty": "Medium"
  },
