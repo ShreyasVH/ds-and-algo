@@ -4166,8 +4166,8 @@
  },
  {
   "id": "596",
-  "problemName": "Classes More Than 5 Students",
-  "problemUrl": "https://leetcode.com/problems/classes-more-than-5-students",
+  "problemName": "Classes With at Least 5 Students",
+  "problemUrl": "https://leetcode.com/problems/classes-with-at-least-5-students",
   "difficulty": "Easy",
   "isPaid": false
  },
@@ -24470,5 +24470,1013 @@
   "problemUrl": "https://leetcode.com/problems/maximize-score-after-pair-deletions",
   "difficulty": "Medium",
   "isPaid": true
+ },
+ {
+  "id": "3497",
+  "problemName": "Analyze Subscription Conversion ",
+  "problemUrl": "https://leetcode.com/problems/analyze-subscription-conversion",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3498",
+  "problemName": "Reverse Degree of a String",
+  "problemUrl": "https://leetcode.com/problems/reverse-degree-of-a-string",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3499",
+  "problemName": "Maximize Active Section with Trade I",
+  "problemUrl": "https://leetcode.com/problems/maximize-active-section-with-trade-i",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3500",
+  "problemName": "Minimum Cost to Divide Array Into Subarrays",
+  "problemUrl": "https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3501",
+  "problemName": "Maximize Active Section with Trade II",
+  "problemUrl": "https://leetcode.com/problems/maximize-active-section-with-trade-ii",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3502",
+  "problemName": "Minimum Cost to Reach Every Position",
+  "problemUrl": "https://leetcode.com/problems/minimum-cost-to-reach-every-position",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3503",
+  "problemName": "Longest Palindrome After Substring Concatenation I",
+  "problemUrl": "https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-i",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3504",
+  "problemName": "Longest Palindrome After Substring Concatenation II",
+  "problemUrl": "https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3505",
+  "problemName": "Minimum Operations to Make Elements Within K Subarrays Equal",
+  "problemUrl": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3506",
+  "problemName": "Find Time Required to Eliminate Bacterial Strains",
+  "problemUrl": "https://leetcode.com/problems/find-time-required-to-eliminate-bacterial-strains",
+  "difficulty": "Hard",
+  "isPaid": true
+ },
+ {
+  "id": "3507",
+  "problemName": "Minimum Pair Removal to Sort Array I",
+  "problemUrl": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3508",
+  "problemName": "Implement Router",
+  "problemUrl": "https://leetcode.com/problems/implement-router",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3509",
+  "problemName": "Maximum Product of Subsequences With an Alternating Sum Equal to K",
+  "problemUrl": "https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3510",
+  "problemName": "Minimum Pair Removal to Sort Array II",
+  "problemUrl": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3511",
+  "problemName": "Make a Positive Array",
+  "problemUrl": "https://leetcode.com/problems/make-a-positive-array",
+  "difficulty": "Medium",
+  "isPaid": true
+ },
+ {
+  "id": "3512",
+  "problemName": "Minimum Operations to Make Array Sum Divisible by K",
+  "problemUrl": "https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3513",
+  "problemName": "Number of Unique XOR Triplets I",
+  "problemUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-i",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3514",
+  "problemName": "Number of Unique XOR Triplets II",
+  "problemUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3515",
+  "problemName": "Shortest Path in a Weighted Tree",
+  "problemUrl": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3516",
+  "problemName": "Find Closest Person",
+  "problemUrl": "https://leetcode.com/problems/find-closest-person",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3517",
+  "problemName": "Smallest Palindromic Rearrangement I",
+  "problemUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-i",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3518",
+  "problemName": "Smallest Palindromic Rearrangement II",
+  "problemUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3519",
+  "problemName": "Count Numbers with Non-Decreasing Digits ",
+  "problemUrl": "https://leetcode.com/problems/count-numbers-with-non-decreasing-digits",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3520",
+  "problemName": "Minimum Threshold for Inversion Pairs Count",
+  "problemUrl": "https://leetcode.com/problems/minimum-threshold-for-inversion-pairs-count",
+  "difficulty": "Medium",
+  "isPaid": true
+ },
+ {
+  "id": "3521",
+  "problemName": "Find Product Recommendation Pairs",
+  "problemUrl": "https://leetcode.com/problems/find-product-recommendation-pairs",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3522",
+  "problemName": "Calculate Score After Performing Instructions",
+  "problemUrl": "https://leetcode.com/problems/calculate-score-after-performing-instructions",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3523",
+  "problemName": "Make Array Non-decreasing",
+  "problemUrl": "https://leetcode.com/problems/make-array-non-decreasing",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3524",
+  "problemName": "Find X Value of Array I",
+  "problemUrl": "https://leetcode.com/problems/find-x-value-of-array-i",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3525",
+  "problemName": "Find X Value of Array II",
+  "problemUrl": "https://leetcode.com/problems/find-x-value-of-array-ii",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3526",
+  "problemName": "Range XOR Queries with Subarray Reversals",
+  "problemUrl": "https://leetcode.com/problems/range-xor-queries-with-subarray-reversals",
+  "difficulty": "Hard",
+  "isPaid": true
+ },
+ {
+  "id": "3527",
+  "problemName": "Find the Most Common Response",
+  "problemUrl": "https://leetcode.com/problems/find-the-most-common-response",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3528",
+  "problemName": "Unit Conversion I",
+  "problemUrl": "https://leetcode.com/problems/unit-conversion-i",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3529",
+  "problemName": "Count Cells in Overlapping Horizontal and Vertical Substrings",
+  "problemUrl": "https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3530",
+  "problemName": "Maximum Profit from Valid Topological Order in DAG",
+  "problemUrl": "https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3531",
+  "problemName": "Count Covered Buildings",
+  "problemUrl": "https://leetcode.com/problems/count-covered-buildings",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3532",
+  "problemName": "Path Existence Queries in a Graph I",
+  "problemUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3533",
+  "problemName": "Concatenated Divisibility",
+  "problemUrl": "https://leetcode.com/problems/concatenated-divisibility",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3534",
+  "problemName": "Path Existence Queries in a Graph II",
+  "problemUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3535",
+  "problemName": "Unit Conversion II",
+  "problemUrl": "https://leetcode.com/problems/unit-conversion-ii",
+  "difficulty": "Medium",
+  "isPaid": true
+ },
+ {
+  "id": "3536",
+  "problemName": "Maximum Product of Two Digits",
+  "problemUrl": "https://leetcode.com/problems/maximum-product-of-two-digits",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3537",
+  "problemName": "Fill a Special Grid",
+  "problemUrl": "https://leetcode.com/problems/fill-a-special-grid",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3538",
+  "problemName": "Merge Operations for Minimum Travel Time",
+  "problemUrl": "https://leetcode.com/problems/merge-operations-for-minimum-travel-time",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3539",
+  "problemName": "Find Sum of Array Product of Magical Sequences",
+  "problemUrl": "https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3540",
+  "problemName": "Minimum Time to Visit All Houses",
+  "problemUrl": "https://leetcode.com/problems/minimum-time-to-visit-all-houses",
+  "difficulty": "Medium",
+  "isPaid": true
+ },
+ {
+  "id": "3541",
+  "problemName": "Find Most Frequent Vowel and Consonant",
+  "problemUrl": "https://leetcode.com/problems/find-most-frequent-vowel-and-consonant",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3542",
+  "problemName": "Minimum Operations to Convert All Elements to Zero",
+  "problemUrl": "https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3543",
+  "problemName": "Maximum Weighted K-Edge Path",
+  "problemUrl": "https://leetcode.com/problems/maximum-weighted-k-edge-path",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3544",
+  "problemName": "Subtree Inversion Sum",
+  "problemUrl": "https://leetcode.com/problems/subtree-inversion-sum",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3545",
+  "problemName": "Minimum Deletions for At Most K Distinct Characters",
+  "problemUrl": "https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3546",
+  "problemName": "Equal Sum Grid Partition I",
+  "problemUrl": "https://leetcode.com/problems/equal-sum-grid-partition-i",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3547",
+  "problemName": "Maximum Sum of Edge Values in a Graph",
+  "problemUrl": "https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3548",
+  "problemName": "Equal Sum Grid Partition II",
+  "problemUrl": "https://leetcode.com/problems/equal-sum-grid-partition-ii",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3549",
+  "problemName": "Multiply Two Polynomials",
+  "problemUrl": "https://leetcode.com/problems/multiply-two-polynomials",
+  "difficulty": "Hard",
+  "isPaid": true
+ },
+ {
+  "id": "3550",
+  "problemName": "Smallest Index With Digit Sum Equal to Index",
+  "problemUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3551",
+  "problemName": "Minimum Swaps to Sort by Digit Sum",
+  "problemUrl": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3552",
+  "problemName": "Grid Teleportation Traversal",
+  "problemUrl": "https://leetcode.com/problems/grid-teleportation-traversal",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3553",
+  "problemName": "Minimum Weighted Subgraph With the Required Paths II",
+  "problemUrl": "https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3554",
+  "problemName": "Find Category Recommendation Pairs",
+  "problemUrl": "https://leetcode.com/problems/find-category-recommendation-pairs",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3555",
+  "problemName": "Smallest Subarray to Sort in Every Sliding Window",
+  "problemUrl": "https://leetcode.com/problems/smallest-subarray-to-sort-in-every-sliding-window",
+  "difficulty": "Medium",
+  "isPaid": true
+ },
+ {
+  "id": "3556",
+  "problemName": "Sum of Largest Prime Substrings",
+  "problemUrl": "https://leetcode.com/problems/sum-of-largest-prime-substrings",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3557",
+  "problemName": "Find Maximum Number of Non Intersecting Substrings",
+  "problemUrl": "https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3558",
+  "problemName": "Number of Ways to Assign Edge Weights I",
+  "problemUrl": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3559",
+  "problemName": "Number of Ways to Assign Edge Weights II",
+  "problemUrl": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3560",
+  "problemName": "Find Minimum Log Transportation Cost",
+  "problemUrl": "https://leetcode.com/problems/find-minimum-log-transportation-cost",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3561",
+  "problemName": "Resulting String After Adjacent Removals",
+  "problemUrl": "https://leetcode.com/problems/resulting-string-after-adjacent-removals",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3562",
+  "problemName": "Maximum Profit from Trading Stocks with Discounts",
+  "problemUrl": "https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3563",
+  "problemName": "Lexicographically Smallest String After Adjacent Removals",
+  "problemUrl": "https://leetcode.com/problems/lexicographically-smallest-string-after-adjacent-removals",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3564",
+  "problemName": "Seasonal Sales Analysis",
+  "problemUrl": "https://leetcode.com/problems/seasonal-sales-analysis",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3565",
+  "problemName": "Sequential Grid Path Cover",
+  "problemUrl": "https://leetcode.com/problems/sequential-grid-path-cover",
+  "difficulty": "Medium",
+  "isPaid": true
+ },
+ {
+  "id": "3566",
+  "problemName": "Partition Array into Two Equal Product Subsets",
+  "problemUrl": "https://leetcode.com/problems/partition-array-into-two-equal-product-subsets",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3567",
+  "problemName": "Minimum Absolute Difference in Sliding Submatrix",
+  "problemUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3568",
+  "problemName": "Minimum Moves to Clean the Classroom",
+  "problemUrl": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3569",
+  "problemName": "Maximize Count of Distinct Primes After Split",
+  "problemUrl": "https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3570",
+  "problemName": "Find Books with No Available Copies",
+  "problemUrl": "https://leetcode.com/problems/find-books-with-no-available-copies",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3571",
+  "problemName": "Find the Shortest Superstring II",
+  "problemUrl": "https://leetcode.com/problems/find-the-shortest-superstring-ii",
+  "difficulty": "Easy",
+  "isPaid": true
+ },
+ {
+  "id": "3572",
+  "problemName": "Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values",
+  "problemUrl": "https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3573",
+  "problemName": "Best Time to Buy and Sell Stock V",
+  "problemUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3574",
+  "problemName": "Maximize Subarray GCD Score",
+  "problemUrl": "https://leetcode.com/problems/maximize-subarray-gcd-score",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3575",
+  "problemName": "Maximum Good Subtree Score",
+  "problemUrl": "https://leetcode.com/problems/maximum-good-subtree-score",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3576",
+  "problemName": "Transform Array to All Equal Elements",
+  "problemUrl": "https://leetcode.com/problems/transform-array-to-all-equal-elements",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3577",
+  "problemName": "Count the Number of Computer Unlocking Permutations",
+  "problemUrl": "https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3578",
+  "problemName": "Count Partitions With Max-Min Difference at Most K",
+  "problemUrl": "https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3579",
+  "problemName": "Minimum Steps to Convert String with Operations",
+  "problemUrl": "https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3580",
+  "problemName": "Find Consistently Improving Employees",
+  "problemUrl": "https://leetcode.com/problems/find-consistently-improving-employees",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3581",
+  "problemName": "Count Odd Letters from Number",
+  "problemUrl": "https://leetcode.com/problems/count-odd-letters-from-number",
+  "difficulty": "Easy",
+  "isPaid": true
+ },
+ {
+  "id": "3582",
+  "problemName": "Generate Tag for Video Caption",
+  "problemUrl": "https://leetcode.com/problems/generate-tag-for-video-caption",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3583",
+  "problemName": "Count Special Triplets",
+  "problemUrl": "https://leetcode.com/problems/count-special-triplets",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3584",
+  "problemName": "Maximum Product of First and Last Elements of a Subsequence",
+  "problemUrl": "https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3585",
+  "problemName": "Find Weighted Median Node in Tree",
+  "problemUrl": "https://leetcode.com/problems/find-weighted-median-node-in-tree",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3586",
+  "problemName": "Find COVID Recovery Patients",
+  "problemUrl": "https://leetcode.com/problems/find-covid-recovery-patients",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3587",
+  "problemName": "Minimum Adjacent Swaps to Alternate Parity",
+  "problemUrl": "https://leetcode.com/problems/minimum-adjacent-swaps-to-alternate-parity",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3588",
+  "problemName": "Find Maximum Area of a Triangle",
+  "problemUrl": "https://leetcode.com/problems/find-maximum-area-of-a-triangle",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3589",
+  "problemName": "Count Prime-Gap Balanced Subarrays",
+  "problemUrl": "https://leetcode.com/problems/count-prime-gap-balanced-subarrays",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3590",
+  "problemName": "Kth Smallest Path XOR Sum",
+  "problemUrl": "https://leetcode.com/problems/kth-smallest-path-xor-sum",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3591",
+  "problemName": "Check if Any Element Has Prime Frequency",
+  "problemUrl": "https://leetcode.com/problems/check-if-any-element-has-prime-frequency",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3592",
+  "problemName": "Inverse Coin Change",
+  "problemUrl": "https://leetcode.com/problems/inverse-coin-change",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3593",
+  "problemName": "Minimum Increments to Equalize Leaf Paths",
+  "problemUrl": "https://leetcode.com/problems/minimum-increments-to-equalize-leaf-paths",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3594",
+  "problemName": "Minimum Time to Transport All Individuals",
+  "problemUrl": "https://leetcode.com/problems/minimum-time-to-transport-all-individuals",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3595",
+  "problemName": "Once Twice",
+  "problemUrl": "https://leetcode.com/problems/once-twice",
+  "difficulty": "Medium",
+  "isPaid": true
+ },
+ {
+  "id": "3596",
+  "problemName": "Minimum Cost Path with Alternating Directions I",
+  "problemUrl": "https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-i",
+  "difficulty": "Medium",
+  "isPaid": true
+ },
+ {
+  "id": "3597",
+  "problemName": "Partition String ",
+  "problemUrl": "https://leetcode.com/problems/partition-string",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3598",
+  "problemName": "Longest Common Prefix Between Adjacent Strings After Removals",
+  "problemUrl": "https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3599",
+  "problemName": "Partition Array to Minimize XOR",
+  "problemUrl": "https://leetcode.com/problems/partition-array-to-minimize-xor",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3600",
+  "problemName": "Maximize Spanning Tree Stability with Upgrades",
+  "problemUrl": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3601",
+  "problemName": "Find Drivers with Improved Fuel Efficiency",
+  "problemUrl": "https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3602",
+  "problemName": "Hexadecimal and Hexatrigesimal Conversion",
+  "problemUrl": "https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3603",
+  "problemName": "Minimum Cost Path with Alternating Directions II",
+  "problemUrl": "https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3604",
+  "problemName": "Minimum Time to Reach Destination in Directed Graph",
+  "problemUrl": "https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3605",
+  "problemName": "Minimum Stability Factor of Array",
+  "problemUrl": "https://leetcode.com/problems/minimum-stability-factor-of-array",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3606",
+  "problemName": "Coupon Code Validator",
+  "problemUrl": "https://leetcode.com/problems/coupon-code-validator",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3607",
+  "problemName": "Power Grid Maintenance",
+  "problemUrl": "https://leetcode.com/problems/power-grid-maintenance",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3608",
+  "problemName": "Minimum Time for K Connected Components",
+  "problemUrl": "https://leetcode.com/problems/minimum-time-for-k-connected-components",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3609",
+  "problemName": "Minimum Moves to Reach Target in Grid",
+  "problemUrl": "https://leetcode.com/problems/minimum-moves-to-reach-target-in-grid",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3610",
+  "problemName": "Minimum Number of Primes to Sum to Target",
+  "problemUrl": "https://leetcode.com/problems/minimum-number-of-primes-to-sum-to-target",
+  "difficulty": "Medium",
+  "isPaid": true
+ },
+ {
+  "id": "3611",
+  "problemName": "Find Overbooked Employees",
+  "problemUrl": "https://leetcode.com/problems/find-overbooked-employees",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3612",
+  "problemName": "Process String with Special Operations I",
+  "problemUrl": "https://leetcode.com/problems/process-string-with-special-operations-i",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3613",
+  "problemName": "Minimize Maximum Component Cost",
+  "problemUrl": "https://leetcode.com/problems/minimize-maximum-component-cost",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3614",
+  "problemName": "Process String with Special Operations II",
+  "problemUrl": "https://leetcode.com/problems/process-string-with-special-operations-ii",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3615",
+  "problemName": "Longest Palindromic Path in Graph",
+  "problemUrl": "https://leetcode.com/problems/longest-palindromic-path-in-graph",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3616",
+  "problemName": "Number of Student Replacements",
+  "problemUrl": "https://leetcode.com/problems/number-of-student-replacements",
+  "difficulty": "Medium",
+  "isPaid": true
+ },
+ {
+  "id": "3617",
+  "problemName": "Find Students with Study Spiral Pattern",
+  "problemUrl": "https://leetcode.com/problems/find-students-with-study-spiral-pattern",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3618",
+  "problemName": "Split Array by Prime Indices",
+  "problemUrl": "https://leetcode.com/problems/split-array-by-prime-indices",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3619",
+  "problemName": "Count Islands With Total Value Divisible by K",
+  "problemUrl": "https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3620",
+  "problemName": "Network Recovery Pathways",
+  "problemUrl": "https://leetcode.com/problems/network-recovery-pathways",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3621",
+  "problemName": "Number of Integers With Popcount-Depth Equal to K I",
+  "problemUrl": "https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3622",
+  "problemName": "Check Divisibility by Digit Sum and Product",
+  "problemUrl": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3623",
+  "problemName": "Count Number of Trapezoids I",
+  "problemUrl": "https://leetcode.com/problems/count-number-of-trapezoids-i",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3624",
+  "problemName": "Number of Integers With Popcount-Depth Equal to K II",
+  "problemUrl": "https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-ii",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3625",
+  "problemName": "Count Number of Trapezoids II",
+  "problemUrl": "https://leetcode.com/problems/count-number-of-trapezoids-ii",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3626",
+  "problemName": "Find Stores with Inventory Imbalance",
+  "problemUrl": "https://leetcode.com/problems/find-stores-with-inventory-imbalance",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3627",
+  "problemName": "Maximum Median Sum of Subsequences of Size 3",
+  "problemUrl": "https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3628",
+  "problemName": "Maximum Number of Subsequences After One Inserting",
+  "problemUrl": "https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3629",
+  "problemName": "Minimum Jumps to Reach End via Prime Teleportation",
+  "problemUrl": "https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3630",
+  "problemName": "Partition Array for Maximum XOR and AND",
+  "problemUrl": "https://leetcode.com/problems/partition-array-for-maximum-xor-and-and",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3631",
+  "problemName": "Sort Threats by Severity and Exploitability",
+  "problemUrl": "https://leetcode.com/problems/sort-threats-by-severity-and-exploitability",
+  "difficulty": "Medium",
+  "isPaid": true
+ },
+ {
+  "id": "3632",
+  "problemName": "Subarrays with XOR at Least K",
+  "problemUrl": "https://leetcode.com/problems/subarrays-with-xor-at-least-k",
+  "difficulty": "Hard",
+  "isPaid": true
+ },
+ {
+  "id": "3633",
+  "problemName": "Earliest Finish Time for Land and Water Rides I",
+  "problemUrl": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3634",
+  "problemName": "Minimum Removals to Balance Array",
+  "problemUrl": "https://leetcode.com/problems/minimum-removals-to-balance-array",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3635",
+  "problemName": "Earliest Finish Time for Land and Water Rides II",
+  "problemUrl": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3636",
+  "problemName": "Threshold Majority Queries",
+  "problemUrl": "https://leetcode.com/problems/threshold-majority-queries",
+  "difficulty": "Hard",
+  "isPaid": false
+ },
+ {
+  "id": "3637",
+  "problemName": "Trionic Array I",
+  "problemUrl": "https://leetcode.com/problems/trionic-array-i",
+  "difficulty": "Easy",
+  "isPaid": false
+ },
+ {
+  "id": "3638",
+  "problemName": "Maximum Balanced Shipments",
+  "problemUrl": "https://leetcode.com/problems/maximum-balanced-shipments",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3639",
+  "problemName": "Minimum Time to Activate String",
+  "problemUrl": "https://leetcode.com/problems/minimum-time-to-activate-string",
+  "difficulty": "Medium",
+  "isPaid": false
+ },
+ {
+  "id": "3640",
+  "problemName": "Trionic Array II",
+  "problemUrl": "https://leetcode.com/problems/trionic-array-ii",
+  "difficulty": "Hard",
+  "isPaid": false
  }
 ]
