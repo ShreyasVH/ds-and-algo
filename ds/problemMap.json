@@ -364,5 +364,8 @@
 	"wordLadder": {
 		"geeksForGeeks": 701841,
 		"leetCode": 127
+	},
+	"squareRoot": {
+		"geeksForGeeks": 700226
 	}
 }
