@@ -371,5 +371,8 @@
 	},
 	"printLinkedListElements": {
 		"geeksForGeeks": 700004
+	},
+	"reverseAlternateNodesLinkedList": {
+		"geeksForGeeks": 700006
 	}
 }
