@@ -374,5 +374,8 @@
 	},
 	"reverseAlternateNodesLinkedList": {
 		"geeksForGeeks": 700006
+	},
+	"frequencyInLinkedList": {
+		"geeksForGeeks": 700019
 	}
 }
