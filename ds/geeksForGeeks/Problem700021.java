@@ -29,7 +29,7 @@ import java.util.*;
 import utils.*;
 import java.lang.reflect.Constructor;
 
-public class Problem7000021a
+public class Problem700021
 {
 	public static void main(String args[]) throws Exception
 	{
@@ -66,29 +66,29 @@ public class Problem7000021a
 	}
 
 	public void linkdelete(LinkedListNode head, int n, int m) {
-        if(head == null) return;
-        
         LinkedListNode curr = head;
-        for(int i = 1; i < m && curr != null; i++)
+        while(curr != null)
         {
-            curr = curr.next;
+            for(int i = 1; i < m && curr != null; i++)
+            {
+                curr = curr.next;
+            }
+            if (curr == null) break;
+
+            LinkedListNode del = curr.next;
+            for(int i = 0; i < n && del != null; i++)
+            {
+                del = del.next;
+            }
+
+            curr.next = del;
+            curr = del;
         }
-
-        if(curr == null) return;
-
-        LinkedListNode del = curr.next;
-        for(int i = 0; i < n && del != null; i++)
-        {
-            del = del.next;
-        }
-
-        curr.next = del;
-        linkdelete(del, n, m);
     }
 }
 
 
 /*
 Time complexity: O(L)
-Space complexity: O(L / (m + n))
+Space complexity: O(1)
 */
