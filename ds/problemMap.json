@@ -383,5 +383,8 @@
 	},
 	"leftRotateLinkedList": {
 		"geeksForGeeks": 700023
+	},
+	"linkedListPairwiseSwap": {
+		"geeksForGeeks": 700024
 	}
 }
