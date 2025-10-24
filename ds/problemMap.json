@@ -395,5 +395,8 @@
 	},
 	"linkedListNthNode": {
 		"geeksForGeeks": 700040
+	},
+	"linkedListAddition": {
+		"geeksForGeeks": 700043
 	}
 }
