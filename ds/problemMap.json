@@ -398,5 +398,8 @@
 	},
 	"linkedListAddition": {
 		"geeksForGeeks": 700043
+	},
+	"linkedListRearrangeEvenOdd": {
+		"geeksForGeeks": 700045
 	}
 }
