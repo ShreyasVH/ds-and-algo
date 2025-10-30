@@ -404,5 +404,8 @@
 	},
 	"linkedListAddOne": {
 		"geeksForGeeks": 700053
+	},
+	"linkedListCompare": {
+		"geeksForGeeks": 700061
 	}
 }
