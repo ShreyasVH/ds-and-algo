@@ -30,7 +30,7 @@ import java.util.*;
 import utils.*;
 import java.lang.reflect.Constructor;
 
-public class Problem700061
+public class Problem700071
 {
 	public static void main(String args[]) throws Exception
 	{
