@@ -62,6 +62,6 @@ public class Problem700039
 
 
 /*
-Time complexity: 
-Space complexity: 
+Time complexity: O(n)
+Space complexity: O(1)
 */
