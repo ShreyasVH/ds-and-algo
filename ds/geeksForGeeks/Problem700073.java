@@ -1,5 +1,24 @@
 /*
+Merge 2 sorted linked list in reverse order
 
+Given two linked lists, which are sorted in non-decreasing order. The task is to merge them in such a way that the resulting list is in non-increasing order.
+
+Examples:
+
+Input: LinkedList1 = 1->3, LinkedList2 = 2->4
+Output: 4->3->2->1
+Explanation: After merging the two lists in non-increasing order, we have new lists as 4->3->2->1.
+
+Input: LinkedList1 = 5->10->15->40, LinkedList2 = 2->3->20
+Output: 40->20->15->10->5->3->2
+Explanation: After merging the two lists in non-increasing order, we have new lists as 40->20->15->10->5->3->2.
+
+Expected Time Complexity: O(n+m)
+Expected Space Complexity: O(1)
+
+Constraints:
+1 <= size of the LinkedLists <= 10^5
+0 <= node->data <= 10^6
 
 */
 
