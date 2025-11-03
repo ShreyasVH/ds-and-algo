@@ -407,5 +407,8 @@
 	},
 	"linkedListCompare": {
 		"geeksForGeeks": 700071
+	},
+	"linkedListMergeReverseOrder": {
+		"geeksForGeeks": 700073
 	}
 }
