@@ -410,5 +410,8 @@
 	},
 	"linkedListMergeReverseOrder": {
 		"geeksForGeeks": 700073
+	},
+	"linkedListRearrangeZigzag": {
+		"geeksForGeeks": 700085
 	}
 }
