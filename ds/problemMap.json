@@ -87,7 +87,8 @@
 	},
 	"linkedListCycle": {
 		"stoneyCodes": 27,
-		"leetCode": 141
+		"leetCode": 141,
+		"geeksForGeeks": 700099
 	},
 	"reverseLinkedList": {
 		"stoneyCodes": 28,
@@ -413,5 +414,8 @@
 	},
 	"linkedListRearrangeZigzag": {
 		"geeksForGeeks": 700085
+	},
+	"linkedListDeleteSmallerNodesOnLeft": {
+		"geeksForGeeks": 700101
 	}
 }
