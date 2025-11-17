@@ -417,5 +417,8 @@
 	},
 	"linkedListDeleteSmallerNodesOnLeft": {
 		"geeksForGeeks": 700101
+	},
+	"linkedListRearrangeInPlace": {
+		"geeksForGeeks": 700103
 	}
 }
