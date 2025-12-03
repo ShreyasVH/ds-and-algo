@@ -420,5 +420,8 @@
 	},
 	"linkedListRearrangeInPlace": {
 		"geeksForGeeks": 700103
+	},
+	"linkedListQuickSort": {
+		"geeksForGeeks": 700124
 	}
 }
