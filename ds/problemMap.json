@@ -423,5 +423,8 @@
 	},
 	"linkedListQuickSort": {
 		"geeksForGeeks": 700124
+	},
+	"linkedListRemoveDuplicates": {
+		"geeksForGeeks": 700125
 	}
 }
