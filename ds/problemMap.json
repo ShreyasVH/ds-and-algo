@@ -426,5 +426,8 @@
 	},
 	"linkedListRemoveDuplicates": {
 		"geeksForGeeks": 700125
+	},
+	"circularLinkedListSortedInsert": {
+		"geeksForGeeks": 700127
 	}
 }

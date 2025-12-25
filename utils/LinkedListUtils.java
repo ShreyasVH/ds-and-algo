@@ -40,4 +40,25 @@ public class LinkedListUtils
 
         return head;
     }
+
+    public static void printCircularList(LinkedListNode head)
+    {
+        if(head == null)
+        {
+            return;
+        }
+
+        LinkedListNode current = head;
+        do
+        {
+            if(current != head)
+            {
+                System.out.print(" -> ");
+            }
+            System.out.print(current.val);
+            current = current.next;
+        } while(current != head);
+        System.out.print(" -> ");
+        System.out.println(current.val);
+    }
 }
