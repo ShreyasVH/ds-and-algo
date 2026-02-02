@@ -429,5 +429,8 @@
 	},
 	"circularLinkedListSortedInsert": {
 		"geeksForGeeks": 700127
+	},
+	"circularLinkedListSplitIntoHalf": {
+		"geeksForGeeks": 700130
 	}
 }
