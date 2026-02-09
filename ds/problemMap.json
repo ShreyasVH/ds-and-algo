@@ -432,5 +432,8 @@
 	},
 	"circularLinkedListSplitIntoHalf": {
 		"geeksForGeeks": 700130
+	},
+	"doublyLinkedListDelete": {
+		"geeksForGeeks": 700131
 	}
 }
