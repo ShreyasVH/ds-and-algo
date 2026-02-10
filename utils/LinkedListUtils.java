@@ -75,6 +75,8 @@ public class LinkedListUtils
             current = current.next;
         }
         System.out.println();
+
+        printReverse(head);
     }
 
     public static void printReverse(DoublyLinkedListNode head)
