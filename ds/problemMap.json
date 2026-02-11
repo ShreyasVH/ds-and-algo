@@ -438,5 +438,8 @@
 	},
 	"doublyLinkedListQuickSort": {
 		"geeksForGeeks": 700132
+	},
+	"binaryTreeInOrder": {
+		"geeksForGeeks": 700135
 	}
 }
