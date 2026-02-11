@@ -76,6 +76,7 @@ public class Problem700135
 
 
 /*
-Time complexity: 
-Space complexity: 
+Time complexity: O(n)
+Space complexity: O(log n) [balanced]
+                O(n) [skewed]
 */
