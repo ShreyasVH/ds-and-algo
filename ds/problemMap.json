@@ -441,5 +441,8 @@
 	},
 	"binaryTreeInOrder": {
 		"geeksForGeeks": 700135
+	},
+	"reverseDoublyLinkedList": {
+		"geeksForGeeks": 700137
 	}
 }
