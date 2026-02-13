@@ -447,5 +447,8 @@
 	},
 	"bubbleSort": {
 		"geeksForGeeks": 700143
+	},
+	"binaryTreeLeavesCount": {
+		"geeksForGeeks": 700145
 	}
 }
