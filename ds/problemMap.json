@@ -450,5 +450,8 @@
 	},
 	"binaryTreeLeavesCount": {
 		"geeksForGeeks": 700145
+	},
+	"insertionSort": {
+		"geeksForGeeks": 700148
 	}
 }
