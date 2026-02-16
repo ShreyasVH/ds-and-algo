@@ -172,7 +172,8 @@
 	},
 	"invertBinaryTree": {
 		"stoneyCodes": 48,
-		"leetCode": 226
+		"leetCode": 226,
+		"geeksForGeeks": 700155
 	},
 	"lowestCommonAncestorBinaryTree": {
 		"stoneyCodes": 49,
@@ -450,5 +451,8 @@
 	},
 	"binaryTreeLeavesCount": {
 		"geeksForGeeks": 700145
+	},
+	"insertionSort": {
+		"geeksForGeeks": 700148
 	}
 }
