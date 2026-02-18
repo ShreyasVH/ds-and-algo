@@ -457,5 +457,8 @@
 	},
 	"areTwoTreesMirror": {
 		"geeksForGeeks": 700156
+	},
+	"deleteNodeWithoutHead": {
+		"geeksForGeeks": 700161
 	}
 }
