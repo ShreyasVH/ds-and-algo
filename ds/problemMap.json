@@ -460,5 +460,8 @@
 	},
 	"deleteNodeWithoutHead": {
 		"geeksForGeeks": 700161
+	},
+	"linkedListIntersection": {
+		"geeksForGeeks": 700163
 	}
 }
