@@ -148,7 +148,8 @@
 	},
 	"maxDepthOfBinaryTree": {
 		"stoneyCodes": 42,
-		"leetCode": 104
+		"leetCode": 104,
+		"geeksForGeeks": 700164
 	},
 	"maxValueOfBinaryTree": {
 		"stoneyCodes": 43
