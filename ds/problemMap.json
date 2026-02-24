@@ -169,7 +169,8 @@
 	},
 	"binaryTreeDiameter": {
 		"stoneyCodes": 47,
-		"leetCode": 543
+		"leetCode": 543,
+		"geeksForGeeks": 700165
 	},
 	"invertBinaryTree": {
 		"stoneyCodes": 48,
