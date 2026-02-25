@@ -465,5 +465,8 @@
 	},
 	"linkedListIntersection": {
 		"geeksForGeeks": 700163
+	},
+	"heapSort": {
+		"geeksForGeeks": 700167
 	}
 }
