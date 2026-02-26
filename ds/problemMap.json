@@ -468,5 +468,8 @@
 	},
 	"heapSort": {
 		"geeksForGeeks": 700167
+	},
+	"linkedListNthNodeFromLast": {
+		"geeksForGeeks": 700170
 	}
 }
