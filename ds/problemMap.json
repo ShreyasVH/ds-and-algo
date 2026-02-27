@@ -83,7 +83,8 @@
 	},
 	"middleOfLinkedList": {
 		"stoneyCodes": 26,
-		"leetCode": 876
+		"leetCode": 876,
+		"geeksForGeeks": 700171
 	},
 	"linkedListCycle": {
 		"stoneyCodes": 27,
