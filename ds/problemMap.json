@@ -472,5 +472,8 @@
 	},
 	"linkedListNthNodeFromLast": {
 		"geeksForGeeks": 700170
+	},
+	"isCircularList": {
+		"geeksForGeeks": 700172
 	}
 }
