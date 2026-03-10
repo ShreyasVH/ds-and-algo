@@ -475,5 +475,8 @@
 	},
 	"isCircularList": {
 		"geeksForGeeks": 700172
+	},
+	"binaryTreeLeftView": {
+		"geeksForGeeks": 700174
 	}
 }
