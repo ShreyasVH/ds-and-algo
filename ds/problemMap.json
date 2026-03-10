@@ -478,5 +478,8 @@
 	},
 	"binaryTreeLeftView": {
 		"geeksForGeeks": 700174
+	},
+	"deleteMiddleNode": {
+		"geeksForGeeks": 700175
 	}
 }
