@@ -110,7 +110,8 @@
 	},
 	"mergeSortedLinkedLists": {
 		"stoneyCodes": 32,
-		"leetCode": 21
+		"leetCode": 21,
+		"geeksForGeeks": 700176
 	},
 	"minStack": {
 		"stoneyCodes": 33,
