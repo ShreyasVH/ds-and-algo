@@ -482,5 +482,8 @@
 	},
 	"deleteMiddleNode": {
 		"geeksForGeeks": 700175
+	},
+	"isSumTree": {
+		"geeksForGeeks": 700179
 	}
 }
