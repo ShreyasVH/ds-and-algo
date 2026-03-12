@@ -485,5 +485,8 @@
 	},
 	"isSumTree": {
 		"geeksForGeeks": 700179
+	},
+	"linkedListToDecimalValue": {
+		"geeksForGeeks": 700183
 	}
 }
