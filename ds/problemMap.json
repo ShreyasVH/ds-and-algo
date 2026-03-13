@@ -488,5 +488,8 @@
 	},
 	"linkedListToDecimalValue": {
 		"geeksForGeeks": 700183
+	},
+	"connectLevelNodes": {
+		"geeksForGeeks": 700184
 	}
 }
