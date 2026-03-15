@@ -1,3 +1,4 @@
 node_modules
 .envrc
 npmInstall.log
+ncuLog.txt
