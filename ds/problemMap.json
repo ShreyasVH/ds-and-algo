@@ -497,5 +497,8 @@
 	},
 	"linkedListCommonNodes": {
 		"geeksForGeeks": 700191
+	},
+	"flattenNestedLinkedList": {
+		"geeksForGeeks": 700192
 	}
 }
