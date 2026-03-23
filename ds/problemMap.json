@@ -503,5 +503,8 @@
 	},
 	"linkedListDiagnoalTraversal": {
 		"geeksForGeeks": 700193
+	},
+	"removeDuplicatesSortedLinkedList": {
+		"geeksForGeeks": 700196
 	}
 }
