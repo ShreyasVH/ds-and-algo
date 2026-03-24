@@ -509,5 +509,8 @@
 	},
 	"binaryTreePostOrder": {
 		"geeksForGeeks": 700199
+	},
+	"levelOrderSpiral": {
+		"geeksForGeeks": 700201
 	}
 }
