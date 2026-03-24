@@ -506,5 +506,8 @@
 	},
 	"removeDuplicatesSortedLinkedList": {
 		"geeksForGeeks": 700196
+	},
+	"binaryTreePostOrder": {
+		"geeksForGeeks": 700199
 	}
 }
