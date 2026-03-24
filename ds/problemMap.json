@@ -512,5 +512,8 @@
 	},
 	"levelOrderSpiral": {
 		"geeksForGeeks": 700201
+	},
+	"reverseLevelOrder": {
+		"geeksForGeeks": 700202
 	}
 }
