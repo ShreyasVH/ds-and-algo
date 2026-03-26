@@ -515,5 +515,8 @@
 	},
 	"reverseLevelOrder": {
 		"geeksForGeeks": 700202
+	},
+	"binaryTreeBoundaryTraversal": {
+		"geeksForGeeks": 700204
 	}
 }

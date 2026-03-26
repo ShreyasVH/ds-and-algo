@@ -36,7 +36,7 @@ import java.util.*;
 import utils.*;
 import java.lang.reflect.Constructor;
 
-public class Problem700204
+public class Problem700204a
 {
 	public static void main(String args[]) throws Exception
 	{
@@ -62,8 +62,7 @@ public class Problem700204
 
         addLeftBoundary(root.left, result);
 
-        addLeaves(root.left, result);
-        addLeaves(root.right, result);
+        addLeaves(root, result);
 
         addRightBoundary(root.right, result);
 
@@ -77,52 +76,85 @@ public class Problem700204
 
     public void addLeftBoundary(TreeNode root, ArrayList<Integer> result)
     {
-        if (root == null || isLeaf(root)) {
-            return;
-        }
+        while(root != null)
+        {
+            if(!isLeaf(root))
+            {
+                result.add(root.data);
+            }
 
-        result.add(root.data);
-        if(root.left != null) {
-            addLeftBoundary(root.left, result);
-        } else if (root.right != null) {
-            addLeftBoundary(root.right, result);
+            if(root.left != null)
+            {
+                root = root.left;
+            }
+            else
+            {
+                root = root.right;
+            }
         }
     }
 
     public void addLeaves(TreeNode root, ArrayList<Integer> result)
     {
+        
         if(root == null)
         {
             return;
         }
 
-        if(isLeaf(root))
-        {
-            result.add(root.data);
-            return;
-        }
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);
 
-        addLeaves(root.left, result);
-        addLeaves(root.right, result);
+        while(!stack.isEmpty())
+        {
+            TreeNode curr = stack.pop();
+
+            if (isLeaf(curr)) {
+                if (curr != root) {
+                    result.add(curr.data);
+                }
+            } else {
+                if (curr.right != null) {
+                    stack.push(curr.right);
+                }
+                if (curr.left != null) {
+                    stack.push(curr.left);
+                }
+            }
+        }
     }
 
     public void addRightBoundary(TreeNode root, ArrayList<Integer> result)
     {
-        if (root == null || isLeaf(root)) {
-            return;
+        Stack<Integer> stack = new Stack<>();
+
+        while(root != null)
+        {
+            if(!isLeaf(root))
+            {
+                stack.push(root.data);
+            }
+
+            if(root.right != null)
+            {
+                root = root.right;
+            }
+            else
+            {
+                root = root.left;
+            }
         }
 
-        if(root.right != null) {
-            addRightBoundary(root.right, result);
-        } else if (root.left != null) {
-            addRightBoundary(root.left, result);
+        while(!stack.isEmpty())
+        {
+            result.add(stack.pop());
         }
-        result.add(root.data);
     }
 }
 
 
 /*
-Time complexity: 
-Space complexity: 
+Time complexity: O(n)
+Space complexity: O(n) [skewed]
+                O(log n) [balanced]
 */
