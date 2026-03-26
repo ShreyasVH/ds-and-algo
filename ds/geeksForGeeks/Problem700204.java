@@ -123,6 +123,7 @@ public class Problem700204
 
 
 /*
-Time complexity: 
-Space complexity: 
+Time complexity: O(n)
+Space complexity: O(n) [skewed]
+                O(log n) [balanced]
 */
