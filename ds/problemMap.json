@@ -518,5 +518,8 @@
 	},
 	"binaryTreeBoundaryTraversal": {
 		"geeksForGeeks": 700204
+	},
+	"stackUsingLinkedList": {
+		"geeksForGeeks": 700207
 	}
 }
