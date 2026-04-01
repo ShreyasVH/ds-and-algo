@@ -521,5 +521,8 @@
 	},
 	"stackUsingLinkedList": {
 		"geeksForGeeks": 700207
+	},
+	"stackUsingArray": {
+		"geeksForGeeks": 700208
 	}
 }
