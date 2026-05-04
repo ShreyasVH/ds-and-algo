@@ -122,6 +122,8 @@ public class Problem57
 
 
 /*
-Time complexity: O(n)
-Space complexity: O(n)
+Time complexity: O(h) - O(log n) [balanced tree]
+                        - O(n) [skewed tree]
+Space complexity: O(h) - O(log n) [balanced tree]
+                        - O(n) [skewed tree]
 */

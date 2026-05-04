@@ -214,7 +214,8 @@
 	},
 	"deleteNodeBST": {
 		"stoneyCodes": 57,
-		"leetCode": 450
+		"leetCode": 450,
+		"geeksForGeeks": 700209
 	},
 	"kthSmallestBST": {
 		"stoneyCodes": 58,
