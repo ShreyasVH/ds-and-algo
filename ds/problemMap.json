@@ -181,7 +181,8 @@
 	},
 	"lowestCommonAncestorBinaryTree": {
 		"stoneyCodes": 49,
-		"leetCode": 236
+		"leetCode": 236,
+		"geeksForGeeks": 700221
 	},
 	"searchInBST": {
 		"stoneyCodes": 50,
