@@ -167,7 +167,8 @@
 	},
 	"pathSum": {
 		"stoneyCodes": 46,
-		"leetCode": 112
+		"leetCode": 112,
+		"geeksForGeeks": 700225
 	},
 	"binaryTreeDiameter": {
 		"stoneyCodes": 47,
