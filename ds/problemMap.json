@@ -530,5 +530,8 @@
 	},
 	"maxDiffWithAncestor": {
 		"geeksForGeeks": 700227
+	},
+	"noSibling": {
+		"geeksForGeeks": 700228
 	}
 }
