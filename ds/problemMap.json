@@ -527,5 +527,8 @@
 	},
 	"stackUsingArray": {
 		"geeksForGeeks": 700208
+	},
+	"maxDiffWithAncestor": {
+		"geeksForGeeks": 700227
 	}
 }
