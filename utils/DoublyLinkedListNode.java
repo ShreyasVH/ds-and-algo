@@ -10,4 +10,9 @@ public class DoublyLinkedListNode
 	{
 		this.val = val;
 	}
+
+	public String toString()
+	{
+		return val.toString();
+	}
 }

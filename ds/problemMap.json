@@ -533,5 +533,8 @@
 	},
 	"noSibling": {
 		"geeksForGeeks": 700228
+	},
+	"doublyLinkedListInsert": {
+		"geeksForGeeks": 700232
 	}
 }
