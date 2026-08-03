@@ -536,5 +536,8 @@
 	},
 	"doublyLinkedListInsert": {
 		"geeksForGeeks": 700232
+	},
+	"postOrderFromInOrderPreOrder": {
+		"geeksForGeeks": 700233
 	}
 }
