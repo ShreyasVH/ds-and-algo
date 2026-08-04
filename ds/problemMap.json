@@ -539,5 +539,8 @@
 	},
 	"postOrderFromInOrderPreOrder": {
 		"geeksForGeeks": 700233
+	},
+	"absoluteListSorting": {
+		"geeksForGeeks": 700234
 	}
 }
