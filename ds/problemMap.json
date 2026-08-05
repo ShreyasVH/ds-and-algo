@@ -204,7 +204,8 @@
 	},
 	"lowestCommonAncestorBST": {
 		"stoneyCodes": 54,
-		"leetCode": 235
+		"leetCode": 235,
+		"geeksForGeeks": 700236
 	},
 	"minimumAbsoluteDifferenceBST": {
 		"stoneyCodes": 55,
