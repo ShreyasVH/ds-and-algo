@@ -98,6 +98,8 @@ public class Problem54
 
 
 /*
-Time complexity: O(n)
-Space complexity: O(n)
+Time complexity: O(log n) [balanced tree]
+                O(n) [skewed tree]
+Space complexity: O(log n) [balanced tree]
+                O(n) [skewed tree]
 */
