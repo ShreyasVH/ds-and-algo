@@ -549,5 +549,8 @@
 	},
 	"firstSearch": {
 		"geeksForGeeks": 700238
+	},
+	"maxSumPathTwoSortedArrays": {
+		"geeksForGeeks": 700241
 	}
 }
