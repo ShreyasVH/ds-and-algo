@@ -552,5 +552,8 @@
 	},
 	"maxSumPathTwoSortedArrays": {
 		"geeksForGeeks": 700241
+	},
+	"runLengthEncoding": {
+		"geeksForGeeks": 700243
 	}
 }
