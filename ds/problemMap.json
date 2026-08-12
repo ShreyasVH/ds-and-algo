@@ -555,5 +555,8 @@
 	},
 	"runLengthEncoding": {
 		"geeksForGeeks": 700243
+	},
+	"largestSubArrayEqual0s1s": {
+		"geeksForGeeks": 700245
 	}
 }
