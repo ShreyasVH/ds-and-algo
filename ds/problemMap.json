@@ -558,5 +558,8 @@
 	},
 	"largestSubArrayEqual0s1s": {
 		"geeksForGeeks": 700245
+	},
+	"removeDuplicatesSortedArray": {
+		"geeksForGeeks": 700246
 	}
 }
