@@ -562,5 +562,8 @@
 	},
 	"removeDuplicatesSortedArray": {
 		"geeksForGeeks": 700246
+	},
+	"bstKeysInRange": {
+		"geeksForGeeks": 700249
 	}
 }
