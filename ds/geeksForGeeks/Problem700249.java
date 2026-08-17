@@ -83,6 +83,6 @@ public class Problem700249
 
 
 /*
-Time complexity: 
-Space complexity: 
+Time complexity: O(log n + k) [k - number of elements in range]
+Space complexity: O(log n)
 */
